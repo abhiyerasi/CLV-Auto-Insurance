@@ -1,0 +1,1768 @@
+CustomerID,Coverage,EmploymentStatus,Income,Marital.Status,Monthly.Premium.Auto,Number.of.Open.Complaints,Number.of.Policies,Renew.Offer.Type,Vehicle.Class
+17,Basic,Employed,43836,Single,73,0,1,Offer1,Four-Door Car
+19,Extended,Employed,28812,Married,93,0,8,Offer2,Four-Door Car
+29,Premium,Employed,77026,Married,110,2,3,Offer2,Four-Door Car
+34,Basic,Employed,24599,Married,64,1,2,Offer2,Four-Door Car
+37,Extended,Disabled,13789,Divorced,79,0,1,Offer4,Four-Door Car
+44,Basic,Medical Leave,14072,Divorced,71,0,2,Offer1,Four-Door Car
+48,Basic,Employed,97541,Married,72,0,3,Offer2,Four-Door Car
+49,Premium,Unemployed,0,Single,111,0,1,Offer1,Four-Door Car
+54,Extended,Employed,65999,Married,237,0,6,Offer2,Luxury SUV
+65,Basic,Employed,37260,Married,62,0,8,Offer3,Four-Door Car
+77,Basic,Employed,23218,Single,71,0,4,Offer4,Two-Door Car
+80,Extended,Unemployed,0,Married,92,0,1,Offer2,Four-Door Car
+94,Basic,Employed,36014,Married,69,3,2,Offer4,Four-Door Car
+95,Basic,Unemployed,0,Married,101,0,1,Offer1,SUV
+107,Premium,Disabled,11621,Divorced,108,0,1,Offer1,Four-Door Car
+113,Extended,Unemployed,0,Single,94,0,1,Offer1,Two-Door Car
+115,Basic,Employed,33663,Married,73,0,1,Offer3,Four-Door Car
+131,Extended,Employed,61486,Married,97,0,2,Offer4,Two-Door Car
+144,Basic,Employed,65186,Married,65,0,1,Offer2,Two-Door Car
+148,Basic,Employed,61321,Single,186,1,2,Offer2,Luxury Car
+157,Premium,Medical Leave,21513,Married,119,1,2,Offer2,Two-Door Car
+158,Basic,Unemployed,0,Single,70,0,1,Offer1,Four-Door Car
+191,Extended,Unemployed,0,Single,130,0,4,Offer1,SUV
+196,Basic,Employed,32303,Married,65,0,2,Offer3,Four-Door Car
+198,Extended,Employed,56398,Married,85,0,7,Offer4,Four-Door Car
+203,Basic,Unemployed,0,Married,102,1,3,Offer1,SUV
+224,Basic,Employed,33555,Married,63,0,1,Offer1,Four-Door Car
+232,Premium,Employed,42780,Divorced,113,1,2,Offer1,Four-Door Car
+235,Extended,Employed,21880,Married,97,0,1,Offer1,Four-Door Car
+245,Basic,Employed,28406,Married,72,1,4,Offer1,Four-Door Car
+250,Basic,Unemployed,0,Single,117,0,1,Offer1,SUV
+253,Basic,Employed,28859,Divorced,67,3,4,Offer1,Two-Door Car
+258,Premium,Unemployed,0,Married,105,0,1,Offer1,Four-Door Car
+261,Basic,Employed,95697,Married,107,0,9,Offer2,Sports Car
+262,Extended,Disabled,26372,Married,126,0,1,Offer4,SUV
+263,Basic,Unemployed,0,Single,61,1,7,Offer1,Four-Door Car
+275,Basic,Employed,61846,Married,112,0,1,Offer2,SUV
+279,Basic,Employed,21709,Married,62,0,3,Offer2,Four-Door Car
+285,Extended,Employed,61709,Married,82,2,7,Offer3,Four-Door Car
+286,Premium,Disabled,27679,Single,150,0,3,Offer1,SUV
+290,Basic,Unemployed,0,Single,116,0,2,Offer1,SUV
+304,Extended,Employed,68964,Married,78,0,3,Offer3,Four-Door Car
+305,Basic,Employed,77493,Single,70,0,3,Offer1,Four-Door Car
+310,Basic,Employed,81097,Divorced,74,0,1,Offer4,Four-Door Car
+312,Extended,Employed,34498,Single,83,0,7,Offer2,Two-Door Car
+313,Basic,Employed,53863,Married,63,0,2,Offer1,Four-Door Car
+317,Basic,Employed,72006,Divorced,64,0,3,Offer4,Four-Door Car
+318,Extended,Unemployed,0,Married,81,2,2,Offer4,Four-Door Car
+324,Basic,Employed,44320,Married,67,0,2,Offer1,Four-Door Car
+334,Extended,Employed,94827,Married,135,0,4,Offer1,SUV
+337,Basic,Unemployed,0,Married,68.67925746,0,2,Offer1,Four-Door Car
+358,Basic,Medical Leave,16531,Married,63,0,4,Offer1,Four-Door Car
+359,Premium,Employed,70435,Married,116,0,4,Offer3,Four-Door Car
+382,Extended,Unemployed,0,Single,76,2,2,Offer3,Two-Door Car
+395,Extended,Employed,39679,Married,92,0,1,Offer2,Two-Door Car
+396,Extended,Unemployed,0,Single,89,0,5,Offer1,Four-Door Car
+400,Basic,Unemployed,0,Married,69,4,3,Offer4,Two-Door Car
+406,Basic,Employed,53565,Married,71,1,6,Offer1,Four-Door Car
+409,Extended,Employed,78532,Married,78,0,3,Offer2,Four-Door Car
+410,Basic,Employed,72672,Married,63,0,5,Offer2,Four-Door Car
+421,Premium,Employed,99002,Married,112,1,8,Offer3,Four-Door Car
+436,Basic,Employed,85857,Married,73,0,6,Offer4,Four-Door Car
+438,Extended,Employed,89642,Married,121,4,1,Offer3,SUV
+439,Basic,Employed,40864,Married,65,0,1,Offer2,Four-Door Car
+451,Extended,Employed,34923,Single,98,0,2,Offer1,Two-Door Car
+452,Basic,Unemployed,0,Married,74,0,1,Offer1,Two-Door Car
+479,Basic,Employed,34476,Married,67,1,3,Offer4,Four-Door Car
+481,Basic,Unemployed,0,Married,70,0,5,Offer1,Four-Door Car
+487,Basic,Unemployed,0,Single,61,0,1,Offer2,Four-Door Car
+507,Basic,Employed,46131,Married,74,0,1,Offer2,Two-Door Car
+509,Basic,Employed,96668,Single,66,0,3,Offer1,Four-Door Car
+512,Basic,Employed,78879,Married,69,1,4,Offer4,Four-Door Car
+521,Basic,Unemployed,0,Single,112,0,9,Offer1,Sports Car
+528,Extended,Employed,58778,Married,126,0,2,Offer1,SUV
+530,Premium,Employed,51859,Married,171,0,1,Offer4,SUV
+532,Extended,Employed,46998,Divorced,96,0,6,Offer3,Four-Door Car
+546,Basic,Employed,33897,Married,114,0,8,Offer1,SUV
+549,Basic,Employed,40171,Divorced,73,0,1,Offer4,Four-Door Car
+550,Extended,Medical Leave,21665,Divorced,126.9251297,0,1,Offer1,SUV
+551,Basic,Employed,20090,Married,109,0,2,Offer2,Sports Car
+571,Basic,Unemployed,0,Married,183,0,2,Offer3,Luxury SUV
+574,Basic,Unemployed,0,Divorced,62,0,1,Offer3,Two-Door Car
+575,Basic,Unemployed,0,Single,74,0,4,Offer1,Four-Door Car
+588,Premium,Employed,65726,Married,177,0,7,Offer1,SUV
+595,Extended,Employed,22254,Married,79,0,2,Offer3,Four-Door Car
+602,Basic,Unemployed,0,Single,74,0,7,Offer1,Two-Door Car
+616,Extended,Unemployed,0,Married,132,0,6,Offer2,SUV
+619,Basic,Unemployed,0,Single,73,0,4,Offer1,Four-Door Car
+624,Extended,Employed,49080,Single,91,0,1,Offer1,Four-Door Car
+627,Basic,Employed,42536,Divorced,63,0,6,Offer2,Four-Door Car
+635,Extended,Employed,21450,Married,138,0,4,Offer1,Sports Car
+649,Basic,Employed,33345,Single,65,0,2,Offer1,Four-Door Car
+663,Basic,Employed,55411,Married,100,0,4,Offer2,Sports Car
+666,Basic,Employed,56621,Married,65,2,1,Offer2,Four-Door Car
+673,Basic,Unemployed,0,Married,74,0,2,Offer1,Two-Door Car
+686,Extended,Employed,32390,Married,80,0,8,Offer1,Four-Door Car
+719,Basic,Unemployed,0,Single,64,0,1,Offer2,Four-Door Car
+724,Extended,Employed,33288,Married,86,2,9,Offer1,Four-Door Car
+728,Basic,Employed,49665,Single,65.99130145,0,2,Offer3,Four-Door Car
+735,Basic,Employed,76694,Married,117,0,1,Offer4,SUV
+741,Extended,Employed,92600,Single,94,0,1,Offer3,Two-Door Car
+744,Basic,Employed,85840,Married,102,2,4,Offer2,SUV
+754,Premium,Employed,25965,Divorced,253,0,1,Offer2,Luxury SUV
+774,Extended,Employed,90330,Single,137,3,2,Offer1,Sports Car
+780,Basic,Unemployed,0,Married,103.2332306,0,8,Offer1,SUV
+802,Basic,Unemployed,0,Married,69,0,6,Offer3,Two-Door Car
+828,Basic,Employed,72302,Divorced,66,0,1,Offer1,Two-Door Car
+833,Extended,Unemployed,0,Divorced,95,0,5,Offer1,Two-Door Car
+836,Extended,Employed,99960,Married,76,0,4,Offer1,Four-Door Car
+837,Basic,Unemployed,0,Single,74,0,1,Offer1,Four-Door Car
+842,Basic,Employed,67801,Divorced,115,1,1,Offer3,SUV
+843,Basic,Medical Leave,16042,Married,73,0,9,Offer1,Two-Door Car
+850,Basic,Employed,41163,Married,108,0,3,Offer1,SUV
+852,Extended,Employed,90985,Divorced,87,0,1,Offer1,Four-Door Car
+858,Premium,Unemployed,0,Married,165,0,3,Offer3,SUV
+865,Basic,Employed,22862,Married,67,0,2,Offer2,Two-Door Car
+874,Extended,Employed,44897,Married,99,1,7,Offer4,Four-Door Car
+876,Basic,Employed,53265,Married,62,0,3,Offer2,Four-Door Car
+878,Basic,Employed,43817,Married,62,1,2,Offer3,Four-Door Car
+880,Basic,Employed,67798,Divorced,69,0,9,Offer1,Four-Door Car
+889,Extended,Unemployed,0,Married,96,0,1,Offer1,Four-Door Car
+890,Basic,Employed,73570,Single,70,1,1,Offer2,Two-Door Car
+895,Basic,Employed,36631,Divorced,62,0,1,Offer1,Four-Door Car
+904,Basic,Employed,35895,Married,73,0,1,Offer2,Four-Door Car
+907,Basic,Employed,70014,Divorced,62,0,2,Offer1,Four-Door Car
+908,Basic,Employed,81139,Divorced,74,0,3,Offer1,Four-Door Car
+913,Basic,Employed,63834,Married,100,1,3,Offer4,Sports Car
+923,Extended,Employed,41986,Single,84,2,5,Offer1,Two-Door Car
+925,Extended,Unemployed,0,Single,88,0,2,Offer1,Two-Door Car
+940,Extended,Employed,96306,Divorced,95,1,6,Offer1,Four-Door Car
+950,Basic,Employed,37038,Married,71,1,1,Offer4,Four-Door Car
+958,Basic,Employed,90760,Married,103,2,1,Offer2,SUV
+965,Basic,Employed,25544,Married,68,0,1,Offer1,Four-Door Car
+966,Basic,Unemployed,0,Single,102,5,1,Offer2,SUV
+974,Basic,Employed,55308,Divorced,107,0,6,Offer1,SUV
+977,Extended,Employed,36068,Married,97,0,2,Offer2,Two-Door Car
+978,Extended,Employed,47274,Married,83,1,5,Offer1,Four-Door Car
+981,Extended,Unemployed,0,Married,78,0,8,Offer1,Four-Door Car
+1004,Basic,Employed,28919,Married,72,0,1,Offer2,Four-Door Car
+1006,Basic,Unemployed,0,Married,68,1,4,Offer3,Two-Door Car
+1015,Basic,Employed,41869,Married,64,0,6,Offer2,Two-Door Car
+1016,Extended,Employed,36576,Married,125,1,3,Offer1,SUV
+1020,Basic,Medical Leave,28513,Married,100,1,2,Offer2,SUV
+1021,Basic,Employed,76731,Married,64,0,1,Offer2,Four-Door Car
+1027,Premium,Employed,57449,Single,103,0,2,Offer1,Four-Door Car
+1040,Basic,Employed,74585,Married,106,0,1,Offer2,SUV
+1043,Premium,Unemployed,0,Single,142,0,1,Offer4,SUV
+1058,Basic,Employed,73760,Married,107,1,2,Offer3,Sports Car
+1060,Extended,Employed,50943,Divorced,139,0,1,Offer1,SUV
+1068,Basic,Medical Leave,20811,Married,61,0,1,Offer2,Four-Door Car
+1078,Basic,Employed,83210,Divorced,110,0,3,Offer3,Sports Car
+1090,Basic,Employed,41082,Married,70.53965843,0,2,Offer3,Two-Door Car
+1111,Basic,Employed,50631,Married,112,4,2,Offer2,SUV
+1116,Basic,Employed,42621,Married,66,0,3,Offer2,Four-Door Car
+1126,Extended,Employed,82877,Married,99,1,3,Offer1,Two-Door Car
+1145,Extended,Employed,49721,Married,132,0,2,Offer3,Sports Car
+1157,Premium,Employed,88340,Married,102,0,2,Offer1,Two-Door Car
+1159,Premium,Employed,69379,Single,103,0,1,Offer1,Two-Door Car
+1162,Basic,Employed,31266,Married,193,0,1,Offer4,Luxury Car
+1169,Extended,Employed,89284,Divorced,133,2,1,Offer1,SUV
+1172,Basic,Unemployed,0,Divorced,119,0,1,Offer2,SUV
+1184,Basic,Unemployed,0,Single,70,0,1,Offer1,Four-Door Car
+1188,Basic,Employed,64125,Married,108,0,3,Offer2,SUV
+1191,Basic,Employed,78904,Divorced,109,0,9,Offer4,SUV
+1196,Basic,Employed,53310,Divorced,189,3,1,Offer2,Luxury Car
+1210,Premium,Unemployed,0,Divorced,105,0,5,Offer1,Four-Door Car
+1225,Basic,Unemployed,0,Single,62,2,6,Offer1,Four-Door Car
+1231,Premium,Employed,35005,Married,295,0,2,Offer2,Luxury Car
+1234,Basic,Employed,76310,Married,67,0,1,Offer4,Two-Door Car
+1235,Extended,Employed,51056,Married,78,0,2,Offer3,Four-Door Car
+1244,Extended,Employed,71135,Married,92,1,3,Offer1,Four-Door Car
+1245,Basic,Employed,37722,Single,116,0,8,Offer1,Sports Car
+1254,Extended,Employed,70410,Married,83,0,1,Offer2,Four-Door Car
+1258,Basic,Employed,82210,Married,68,4,1,Offer3,Four-Door Car
+1270,Basic,Unemployed,4094.567393,Married,73,0,8,Offer1,Four-Door Car
+1276,Extended,Employed,37931,Married,99,0,2,Offer2,Four-Door Car
+1277,Basic,Employed,35127,Married,62,0,5,Offer2,Four-Door Car
+1279,Basic,Employed,72450,Married,66,0,1,Offer4,Four-Door Car
+1293,Extended,Employed,92983,Married,87,1,2,Offer1,Four-Door Car
+1298,Basic,Employed,66943,Married,65,1,7,Offer3,Four-Door Car
+1303,Premium,Employed,81872,Married,115,0,2,Offer2,Four-Door Car
+1313,Extended,Employed,50450,Single,88.84055722,0,2,Offer4,Two-Door Car
+1319,Premium,Employed,63528,Divorced,256,0,1,Offer2,Luxury Car
+1322,Basic,Unemployed,0,Single,112,0,7,Offer1,SUV
+1328,Basic,Employed,34990,Single,65,0,1,Offer2,Four-Door Car
+1334,Basic,Employed,94648,Divorced,69,0,1,Offer1,Four-Door Car
+1351,Basic,Disabled,15169,Married,63,0,3,Offer4,Four-Door Car
+1363,Basic,Employed,21297,Single,71,0,1,Offer2,Four-Door Car
+1366,Extended,Unemployed,0,Married,134,0,4,Offer1,SUV
+1370,Basic,Unemployed,0,Married,69,0,7,Offer4,Four-Door Car
+1383,Extended,Employed,77517,Married,129,0,2,Offer3,SUV
+1391,Basic,Employed,63568,Married,65,0,2,Offer4,Two-Door Car
+1401,Basic,Employed,38893,Single,103,0,9,Offer2,SUV
+1404,Basic,Unemployed,0,Single,107.7846627,0,7,Offer2,SUV
+1408,Premium,Employed,70534,Divorced,104,0,3,Offer3,Four-Door Car
+1412,Extended,Unemployed,0,Single,92,0,3,Offer1,Two-Door Car
+1418,Extended,Employed,52367,Married,81,0,1,Offer2,Four-Door Car
+1419,Extended,Employed,47406,Married,94,1,6,Offer1,Four-Door Car
+1420,Extended,Unemployed,0,Divorced,80,0,1,Offer1,Four-Door Car
+1431,Basic,Employed,94389,Married,107,0,8,Offer2,SUV
+1437,Basic,Employed,90125,Married,110,0,3,Offer3,SUV
+1450,Basic,Unemployed,0,Single,73,2,9,Offer1,Four-Door Car
+1460,Basic,Employed,89451,Single,64.72180844,0,1,Offer2,Four-Door Car
+1464,Basic,Unemployed,0,Single,199,0,1,Offer4,Luxury SUV
+1475,Extended,Unemployed,2826.198139,Married,92,0,2,Offer1,Four-Door Car
+1476,Basic,Employed,69417,Divorced,73,1,1,Offer1,Four-Door Car
+1478,Extended,Employed,94903,Married,94,0,1,Offer2,Two-Door Car
+1485,Basic,Employed,52629,Married,65,0,6,Offer1,Four-Door Car
+1493,Extended,Employed,45259,Single,109.3846816,0,4,Offer3,SUV
+1494,Extended,Employed,30817,Divorced,88,0,1,Offer2,Four-Door Car
+1498,Basic,Medical Leave,17101,Single,113,0,2,Offer1,SUV
+1500,Basic,Unemployed,0,Divorced,118,0,4,Offer1,SUV
+1522,Basic,Employed,59886,Married,104,0,4,Offer1,Sports Car
+1524,Basic,Medical Leave,25261,Married,101.7784361,0,1,Offer4,SUV
+1526,Basic,Unemployed,0,Single,69,0,2,Offer1,Four-Door Car
+1532,Extended,Employed,74422,Divorced,85,1,3,Offer1,Four-Door Car
+1533,Basic,Employed,35095,Divorced,73,0,2,Offer2,Two-Door Car
+1542,Basic,Employed,52391,Married,71,0,3,Offer2,Two-Door Car
+1546,Extended,Employed,40598,Single,91,0,5,Offer1,Four-Door Car
+1549,Basic,Unemployed,0,Married,61,0,2,Offer1,Four-Door Car
+1550,Basic,Employed,54483,Married,61,0,1,Offer3,Two-Door Car
+1561,Extended,Employed,87864,Married,94,0,8,Offer2,Two-Door Car
+1567,Basic,Employed,79041,Married,199,0,3,Offer2,Luxury SUV
+1570,Basic,Employed,39492,Married,105,0,1,Offer2,SUV
+1573,Premium,Unemployed,0,Single,120.8619816,0,2,Offer1,SUV
+1584,Premium,Employed,39448,Married,103,3,5,Offer3,Four-Door Car
+1599,Extended,Employed,71794,Married,131,0,1,Offer2,SUV
+1605,Basic,Employed,25302,Married,70,1,2,Offer2,Four-Door Car
+1613,Extended,Medical Leave,16483,Married,90,0,9,Offer3,Two-Door Car
+1618,Basic,Employed,86321,Married,66,0,1,Offer3,Four-Door Car
+1619,Basic,Unemployed,0,Married,62,0,3,Offer1,Four-Door Car
+1638,Premium,Employed,69497,Married,142,0,2,Offer4,SUV
+1639,Basic,Unemployed,0,Married,66,0,2,Offer2,Four-Door Car
+1655,Extended,Employed,66429,Married,136,0,1,Offer2,Sports Car
+1659,Extended,Employed,45703,Married,98,0,9,Offer4,Two-Door Car
+1660,Basic,Employed,40036,Married,65,0,2,Offer1,Four-Door Car
+1674,Basic,Employed,65870,Married,64.62753318,1,2,Offer2,Four-Door Car
+1677,Extended,Unemployed,0,Single,82,1,2,Offer3,Four-Door Car
+1678,Basic,Employed,72215,Married,66,0,2,Offer2,Four-Door Car
+1683,Basic,Employed,39854,Divorced,66,0,7,Offer2,Two-Door Car
+1688,Premium,Employed,96869,Single,101,0,3,Offer2,Four-Door Car
+1692,Premium,Unemployed,0,Single,103,0,3,Offer1,Four-Door Car
+1714,Basic,Employed,81079,Married,111,0,1,Offer2,SUV
+1716,Basic,Disabled,22732,Married,62,0,1,Offer3,Four-Door Car
+1718,Basic,Unemployed,0,Single,103,0,1,Offer3,SUV
+1719,Premium,Disabled,12876,Married,107,2,3,Offer1,Four-Door Car
+1721,Extended,Employed,41711,Single,90,0,1,Offer1,Four-Door Car
+1735,Extended,Disabled,22081,Married,84,0,6,Offer1,Two-Door Car
+1737,Basic,Unemployed,0,Single,101,0,6,Offer2,SUV
+1741,Premium,Employed,51643,Single,283,0,1,Offer2,Luxury Car
+1744,Basic,Employed,83846,Married,74,3,2,Offer2,Four-Door Car
+1749,Extended,Employed,60420,Married,248,0,8,Offer2,Luxury SUV
+1752,Basic,Employed,62739,Divorced,70,0,3,Offer2,Two-Door Car
+1759,Extended,Employed,48268,Divorced,223,0,2,Offer1,Luxury SUV
+1770,Extended,Employed,20976,Married,129,1,1,Offer1,Sports Car
+1771,Basic,Employed,67137,Married,111,5,6,Offer2,SUV
+1775,Extended,Employed,23008,Married,79,1,1,Offer2,Four-Door Car
+1777,Extended,Unemployed,0,Single,136,0,1,Offer1,SUV
+1787,Basic,Employed,90804,Married,113,0,5,Offer2,Sports Car
+1789,Basic,Medical Leave,22404,Married,70,1,4,Offer1,Four-Door Car
+1796,Extended,Employed,65162,Married,86,0,1,Offer2,Four-Door Car
+1804,Basic,Employed,61401,Married,69,0,3,Offer1,Four-Door Car
+1805,Extended,Employed,62587,Married,86,0,2,Offer2,Four-Door Car
+1808,Extended,Unemployed,0,Single,83,0,1,Offer1,Four-Door Car
+1812,Basic,Employed,38702,Married,101,3,3,Offer1,SUV
+1818,Extended,Employed,64859,Married,96,0,8,Offer3,Four-Door Car
+1822,Basic,Employed,26480,Divorced,63,0,3,Offer2,Two-Door Car
+1828,Extended,Employed,73268,Married,84,0,1,Offer3,Four-Door Car
+1829,Basic,Employed,42142,Single,112,0,3,Offer4,Sports Car
+1848,Basic,Disabled,17343,Single,63,0,5,Offer2,Two-Door Car
+1855,Basic,Medical Leave,25854,Single,68,0,9,Offer1,Four-Door Car
+1859,Extended,Employed,53998,Divorced,78,5,8,Offer1,Four-Door Car
+1866,Basic,Employed,73054,Married,106,1,2,Offer1,SUV
+1871,Basic,Medical Leave,25965,Divorced,65,0,1,Offer1,Four-Door Car
+1872,Basic,Employed,55702,Married,61,0,6,Offer1,Four-Door Car
+1878,Basic,Employed,65090,Married,71,0,1,Offer3,Four-Door Car
+1887,Extended,Employed,31278,Married,92,4,1,Offer1,Two-Door Car
+1891,Basic,Unemployed,0,Single,70,1,7,Offer1,Two-Door Car
+1906,Extended,Employed,26876,Single,76,0,8,Offer1,Four-Door Car
+1909,Basic,Unemployed,0,Single,69,0,1,Offer1,Four-Door Car
+1912,Extended,Unemployed,0,Single,83,0,3,Offer2,Four-Door Car
+1915,Premium,Unemployed,0,Single,145,0,1,Offer2,SUV
+1929,Basic,Unemployed,0,Single,70,0,6,Offer4,Four-Door Car
+1934,Extended,Employed,26876,Single,76,0,8,Offer1,Four-Door Car
+1946,Basic,Unemployed,0,Single,61,0,2,Offer1,Two-Door Car
+1953,Basic,Unemployed,0,Single,76.73483767,0,2,Offer2,Four-Door Car
+1959,Basic,Disabled,25198,Married,118,0,4,Offer3,SUV
+1962,Basic,Employed,31071,Single,111,2,1,Offer2,Sports Car
+1968,Extended,Unemployed,0,Single,121,0,8,Offer2,Sports Car
+1976,Basic,Employed,98121,Divorced,67,0,1,Offer2,Two-Door Car
+1978,Extended,Employed,93495,Married,129,0,9,Offer1,SUV
+1979,Extended,Employed,97742,Married,132,0,1,Offer4,SUV
+1980,Premium,Employed,40450,Married,287,3,7,Offer3,Luxury SUV
+1981,Basic,Unemployed,0,Single,71,0,8,Offer4,Two-Door Car
+1999,Extended,Employed,33243,Married,85,0,1,Offer2,Four-Door Car
+2006,Premium,Unemployed,0,Single,114,0,2,Offer1,Four-Door Car
+2008,Basic,Employed,32017,Married,74.85482041,2,7,Offer1,Four-Door Car
+2018,Basic,Unemployed,0,Divorced,66,0,2,Offer1,Four-Door Car
+2022,Extended,Employed,40272,Married,86,0,1,Offer3,Two-Door Car
+2027,Extended,Unemployed,0,Single,77,0,9,Offer3,Four-Door Car
+2039,Basic,Unemployed,0,Single,61,0,8,Offer1,Two-Door Car
+2041,Extended,Employed,57709,Married,125,0,1,Offer2,SUV
+2056,Extended,Employed,78011,Married,138,0,3,Offer1,SUV
+2060,Basic,Unemployed,0,Single,102,0,5,Offer2,SUV
+2062,Basic,Employed,70037,Married,70,0,1,Offer4,Four-Door Car
+2065,Basic,Employed,39658,Married,66,0,7,Offer1,Four-Door Car
+2066,Extended,Employed,50607,Single,137,0,9,Offer2,SUV
+2069,Basic,Employed,72302,Divorced,66,0,1,Offer1,Two-Door Car
+2070,Basic,Employed,55674,Married,66,0,3,Offer1,Four-Door Car
+2074,Basic,Unemployed,3722.675312,Married,68,0,7,Offer1,Four-Door Car
+2079,Premium,Unemployed,0,Married,161,0,3,Offer2,SUV
+2091,Basic,Unemployed,0,Married,115,0,8,Offer1,SUV
+2093,Premium,Employed,92850,Single,104,1,2,Offer1,Four-Door Car
+2095,Basic,Employed,48927,Divorced,72,0,9,Offer1,Four-Door Car
+2097,Basic,Unemployed,0,Married,61,0,9,Offer1,Four-Door Car
+2103,Basic,Unemployed,0,Single,64,0,2,Offer2,Four-Door Car
+2112,Basic,Employed,43461,Married,64,0,6,Offer3,Two-Door Car
+2113,Basic,Employed,74092,Married,67,0,3,Offer2,Four-Door Car
+2114,Basic,Employed,62464,Married,109,0,4,Offer2,Sports Car
+2115,Basic,Employed,35012,Single,72,0,6,Offer2,Four-Door Car
+2117,Extended,Employed,50472,Married,77.85924998,0,3,Offer2,Four-Door Car
+2122,Basic,Employed,94186,Married,64,0,3,Offer3,Four-Door Car
+2129,Premium,Unemployed,0,Married,103,0,4,Offer3,Four-Door Car
+2131,Basic,Unemployed,0,Divorced,63,0,1,Offer1,Four-Door Car
+2151,Extended,Unemployed,0,Married,96.57258928,0,2,Offer1,Two-Door Car
+2152,Extended,Employed,68189,Married,82,1,2,Offer2,Four-Door Car
+2153,Extended,Employed,32370,Married,130,0,2,Offer3,SUV
+2155,Basic,Employed,36088,Single,72,0,9,Offer1,Four-Door Car
+2160,Basic,Employed,44934,Married,61,0,4,Offer1,Four-Door Car
+2172,Basic,Employed,22668,Single,67,1,2,Offer3,Four-Door Car
+2177,Basic,Employed,92678,Divorced,70,0,3,Offer4,Four-Door Car
+2178,Extended,Employed,29095,Married,127,0,1,Offer4,SUV
+2183,Extended,Employed,76456,Single,83,1,2,Offer4,Four-Door Car
+2185,Basic,Employed,65828,Divorced,62,0,1,Offer2,Four-Door Car
+2188,Basic,Employed,78965,Married,183,0,2,Offer1,Luxury Car
+2191,Basic,Disabled,23604,Married,64,0,8,Offer1,Two-Door Car
+2195,Basic,Unemployed,0,Single,69,0,2,Offer1,Four-Door Car
+2196,Basic,Disabled,10892,Divorced,66,0,3,Offer1,Four-Door Car
+2197,Basic,Employed,77156,Divorced,73,0,7,Offer1,Four-Door Car
+2199,Extended,Employed,75651,Married,81,0,2,Offer2,Four-Door Car
+2202,Basic,Unemployed,0,Divorced,67,0,2,Offer1,Four-Door Car
+2203,Basic,Employed,80864,Married,182,0,1,Offer3,Luxury SUV
+2209,Basic,Employed,78115,Married,65,0,4,Offer2,Four-Door Car
+2227,Basic,Employed,81947,Married,71,0,2,Offer3,Two-Door Car
+2235,Extended,Employed,44698,Married,211,4,1,Offer1,Luxury Car
+2240,Basic,Unemployed,0,Single,71,0,3,Offer4,Two-Door Car
+2259,Basic,Unemployed,0,Single,65,0,1,Offer3,Two-Door Car
+2263,Basic,Disabled,12062,Single,63,0,2,Offer4,Four-Door Car
+2281,Basic,Employed,59586,Divorced,72,0,3,Offer2,Four-Door Car
+2286,Basic,Employed,44901,Married,70,2,2,Offer1,Four-Door Car
+2288,Basic,Employed,60689,Single,74,0,7,Offer2,Four-Door Car
+2293,Extended,Employed,61108,Divorced,89,0,2,Offer2,Four-Door Car
+2299,Extended,Employed,83006,Married,235,1,2,Offer3,Luxury SUV
+2301,Basic,Employed,30228,Married,73,0,5,Offer2,Four-Door Car
+2312,Basic,Unemployed,0,Single,74,0,1,Offer1,Two-Door Car
+2316,Premium,Unemployed,0,Single,116,0,3,Offer1,Four-Door Car
+2358,Basic,Employed,69900,Married,64,0,2,Offer4,Two-Door Car
+2365,Extended,Employed,28948,Married,131,0,3,Offer1,SUV
+2366,Premium,Medical Leave,24417,Divorced,185,0,1,Offer1,SUV
+2371,Extended,Employed,37384,Married,99,0,1,Offer2,Four-Door Car
+2374,Basic,Employed,58988,Married,118,0,2,Offer2,Sports Car
+2377,Basic,Unemployed,0,Single,74,1,2,Offer1,Two-Door Car
+2389,Basic,Employed,31535,Single,70,0,1,Offer4,Four-Door Car
+2396,Basic,Unemployed,0,Married,68,1,2,Offer1,Four-Door Car
+2401,Basic,Unemployed,0,Married,104,0,3,Offer2,SUV
+2406,Extended,Employed,27072,Married,93,0,8,Offer4,Four-Door Car
+2410,Basic,Employed,83497,Married,69,0,1,Offer2,Four-Door Car
+2453,Extended,Employed,63935,Married,87,0,6,Offer2,Four-Door Car
+2479,Basic,Employed,99443,Married,117,4,5,Offer3,SUV
+2481,Extended,Unemployed,0,Single,242,0,2,Offer1,Luxury Car
+2482,Extended,Employed,21246,Married,83,0,1,Offer1,Four-Door Car
+2484,Basic,Unemployed,0,Single,111,0,2,Offer3,Sports Car
+2503,Extended,Employed,46707,Married,133,0,8,Offer3,Sports Car
+2512,Premium,Employed,75526,Married,103,1,2,Offer3,Four-Door Car
+2515,Basic,Employed,48315,Divorced,71,0,2,Offer1,Four-Door Car
+2522,Basic,Employed,33818,Single,72,4,3,Offer2,Four-Door Car
+2523,Extended,Medical Leave,22439,Married,98,0,1,Offer1,Four-Door Car
+2525,Basic,Employed,45191,Married,69,0,1,Offer2,Four-Door Car
+2534,Basic,Employed,29084,Divorced,71,1,3,Offer1,Four-Door Car
+2543,Extended,Employed,96018,Married,122,0,3,Offer2,SUV
+2547,Basic,Employed,90310,Married,104,0,1,Offer2,SUV
+2551,Basic,Employed,68236,Married,114,0,6,Offer2,SUV
+2552,Extended,Employed,20179,Married,133,1,5,Offer3,SUV
+2557,Premium,Disabled,23540,Married,103,2,1,Offer3,Two-Door Car
+2561,Basic,Medical Leave,25370,Married,102,0,2,Offer1,Sports Car
+2569,Basic,Unemployed,0,Married,66,0,1,Offer4,Two-Door Car
+2571,Extended,Employed,25820,Divorced,84.80577908,0,1,Offer1,Four-Door Car
+2576,Extended,Unemployed,0,Single,125,0,2,Offer1,SUV
+2589,Basic,Unemployed,0,Single,63,0,2,Offer1,Four-Door Car
+2603,Extended,Employed,24164,Divorced,137,0,5,Offer2,Sports Car
+2608,Basic,Disabled,19864,Divorced,63,0,1,Offer1,Four-Door Car
+2615,Basic,Unemployed,0,Married,73,1,1,Offer2,Two-Door Car
+2622,Basic,Employed,38399,Married,106,0,2,Offer2,SUV
+2640,Extended,Employed,21024,Single,82,1,9,Offer2,Two-Door Car
+2670,Basic,Unemployed,5083.282442,Single,114,0,1,Offer1,SUV
+2673,Basic,Employed,72845,Married,108,0,2,Offer1,SUV
+2674,Basic,Employed,51622,Divorced,74,0,1,Offer1,Four-Door Car
+2676,Basic,Unemployed,0,Divorced,61,0,2,Offer1,Two-Door Car
+2688,Extended,Unemployed,0,Single,82,0,8,Offer2,Four-Door Car
+2693,Basic,Medical Leave,22699,Married,74,4,2,Offer1,Four-Door Car
+2706,Basic,Employed,81713,Divorced,74,0,2,Offer3,Four-Door Car
+2711,Extended,Employed,29698,Divorced,83,2,1,Offer3,Four-Door Car
+2713,Basic,Employed,56455,Married,73,2,8,Offer1,Four-Door Car
+2728,Extended,Employed,94903,Married,94,0,1,Offer2,Two-Door Car
+2733,Premium,Employed,77282,Married,102,0,3,Offer1,Four-Door Car
+2744,Extended,Employed,36167,Married,76,3,1,Offer4,Two-Door Car
+2751,Basic,Employed,34558,Married,113,0,1,Offer1,SUV
+2758,Extended,Employed,66726,Married,97,1,7,Offer2,Two-Door Car
+2766,Basic,Employed,81082,Married,73,0,4,Offer2,Four-Door Car
+2772,Basic,Employed,24409,Married,62,0,1,Offer4,Four-Door Car
+2803,Extended,Employed,83488,Married,90,0,3,Offer4,Four-Door Car
+2806,Extended,Unemployed,0,Single,92,1,2,Offer1,Two-Door Car
+2813,Basic,Employed,97785,Single,73,0,2,Offer1,Two-Door Car
+2815,Basic,Unemployed,0,Single,70,5,1,Offer3,Two-Door Car
+2819,Basic,Employed,91212,Married,69,0,6,Offer2,Two-Door Car
+2824,Premium,Employed,67895,Married,101,4,1,Offer2,Four-Door Car
+2825,Extended,Employed,29598,Single,90.78485764,0,2,Offer4,Two-Door Car
+2834,Basic,Employed,22907,Married,180,2,1,Offer4,Luxury SUV
+2836,Basic,Employed,70174,Married,64,0,7,Offer1,Four-Door Car
+2847,Basic,Unemployed,0,Married,69,0,2,Offer1,Four-Door Car
+2849,Basic,Employed,48029,Married,61,0,9,Offer3,Four-Door Car
+2850,Extended,Unemployed,12946.35951,Married,77,0,2,Offer1,Two-Door Car
+2852,Basic,Employed,69231,Married,65,0,9,Offer2,Four-Door Car
+2855,Basic,Employed,61064,Married,113,0,1,Offer3,SUV
+2856,Basic,Employed,99823,Married,116,0,2,Offer1,SUV
+2861,Basic,Employed,34990,Single,65,0,1,Offer2,Four-Door Car
+2878,Basic,Employed,37124,Married,72,0,1,Offer2,Two-Door Car
+2881,Basic,Unemployed,5212.194931,Married,62,1,2,Offer3,Two-Door Car
+2882,Basic,Employed,61347,Married,106,0,2,Offer4,SUV
+2891,Basic,Employed,37803,Divorced,74,0,1,Offer1,Four-Door Car
+2908,Basic,Employed,91276,Married,105,0,4,Offer1,SUV
+2911,Basic,Employed,35754,Married,199,0,3,Offer3,Luxury Car
+2916,Basic,Employed,53219,Married,117,0,1,Offer1,SUV
+2922,Basic,Employed,59744,Married,115.2133302,0,2,Offer1,SUV
+2926,Extended,Unemployed,0,Married,94,2,4,Offer1,Four-Door Car
+2937,Extended,Employed,35984,Married,128,3,1,Offer2,SUV
+2957,Extended,Unemployed,0,Married,125,4,1,Offer3,SUV
+2958,Extended,Employed,60244,Married,83,3,1,Offer3,Four-Door Car
+2965,Basic,Unemployed,0,Married,74,0,2,Offer1,Four-Door Car
+2970,Basic,Employed,65247,Married,72,0,1,Offer1,Four-Door Car
+2972,Extended,Employed,39650,Married,120.0524456,0,6,Offer2,Four-Door Car
+2974,Basic,Unemployed,0,Married,101,4,1,Offer1,SUV
+2980,Premium,Unemployed,0,Single,111,0,3,Offer2,Two-Door Car
+2982,Extended,Medical Leave,21275,Divorced,240,0,2,Offer3,Luxury SUV
+2983,Basic,Employed,85522,Married,64,0,3,Offer4,Four-Door Car
+3004,Extended,Unemployed,3691.670178,Single,93,0,2,Offer3,Four-Door Car
+3008,Basic,Medical Leave,13476,Single,67,2,2,Offer3,Four-Door Car
+3026,Basic,Employed,88989,Married,63,1,3,Offer3,Four-Door Car
+3028,Premium,Employed,77311,Married,181,0,2,Offer1,SUV
+3030,Basic,Employed,50854,Divorced,73,0,2,Offer1,Four-Door Car
+3041,Extended,Employed,35158,Married,76,0,2,Offer4,Four-Door Car
+3044,Basic,Employed,41154,Married,72,1,8,Offer2,Four-Door Car
+3045,Extended,Employed,70277,Married,80,0,1,Offer2,Four-Door Car
+3049,Basic,Unemployed,0,Single,66,0,4,Offer1,Four-Door Car
+3085,Extended,Employed,37138,Single,85,0,1,Offer1,Two-Door Car
+3094,Basic,Employed,39841,Single,72,0,5,Offer1,Two-Door Car
+3095,Basic,Employed,51085,Married,62,1,1,Offer3,Two-Door Car
+3100,Basic,Employed,37043,Divorced,68,3,1,Offer4,Two-Door Car
+3108,Basic,Disabled,24823,Married,69,0,1,Offer1,Four-Door Car
+3109,Basic,Employed,88249,Single,108,0,2,Offer1,SUV
+3113,Premium,Employed,39770,Married,117,0,3,Offer3,Two-Door Car
+3114,Basic,Employed,76448,Married,63,0,3,Offer3,Four-Door Car
+3130,Extended,Unemployed,0,Married,91,0,2,Offer3,Four-Door Car
+3131,Basic,Unemployed,0,Married,73,0,5,Offer1,Four-Door Car
+3136,Basic,Employed,51352,Divorced,66,3,2,Offer1,Four-Door Car
+3137,Basic,Unemployed,0,Married,72,2,2,Offer1,Two-Door Car
+3145,Premium,Unemployed,0,Married,113,0,2,Offer3,Four-Door Car
+3147,Extended,Employed,48999,Married,86,3,2,Offer1,Four-Door Car
+3152,Basic,Employed,63755,Married,62,0,2,Offer2,Two-Door Car
+3156,Basic,Disabled,10743,Married,70,2,8,Offer3,Two-Door Car
+3164,Basic,Unemployed,0,Married,61,0,1,Offer2,Four-Door Car
+3172,Basic,Employed,99189,Single,117,0,3,Offer3,SUV
+3175,Basic,Employed,58089,Married,118,0,1,Offer1,SUV
+3182,Basic,Unemployed,0,Single,63,0,6,Offer1,Four-Door Car
+3185,Basic,Employed,81082,Married,73,0,4,Offer2,Four-Door Car
+3208,Basic,Employed,40175,Divorced,102,1,1,Offer3,SUV
+3213,Basic,Employed,44537,Married,106,0,1,Offer3,Sports Car
+3215,Basic,Unemployed,0,Married,74,0,8,Offer1,Four-Door Car
+3216,Basic,Employed,69844,Married,68,0,1,Offer2,Four-Door Car
+3219,Extended,Unemployed,0,Single,79,0,1,Offer1,Four-Door Car
+3221,Premium,Employed,34516,Married,113,3,1,Offer4,Four-Door Car
+3224,Premium,Employed,28354,Divorced,118,0,1,Offer2,Two-Door Car
+3227,Basic,Unemployed,0,Single,72,0,5,Offer3,Two-Door Car
+3230,Extended,Unemployed,0,Single,84,0,4,Offer1,Four-Door Car
+3253,Premium,Unemployed,0,Single,113,0,9,Offer1,Four-Door Car
+3262,Basic,Employed,75425,Divorced,116,1,2,Offer2,Sports Car
+3266,Extended,Employed,37995,Married,139,0,1,Offer1,SUV
+3269,Extended,Employed,75425,Married,123,0,6,Offer1,Sports Car
+3270,Basic,Unemployed,0,Single,61,3,9,Offer1,Two-Door Car
+3276,Basic,Employed,92629,Single,72,3,1,Offer2,Four-Door Car
+3286,Basic,Employed,51437,Married,115,0,2,Offer3,SUV
+3288,Basic,Unemployed,0,Single,73,0,9,Offer2,Four-Door Car
+3291,Basic,Employed,88723,Divorced,74,0,8,Offer1,Two-Door Car
+3294,Extended,Employed,60078,Married,127,0,3,Offer3,SUV
+3300,Basic,Unemployed,6046.022922,Single,67,0,3,Offer1,Two-Door Car
+3305,Extended,Unemployed,0,Divorced,124,0,2,Offer1,SUV
+3317,Extended,Employed,48567,Single,130,0,1,Offer2,SUV
+3330,Extended,Unemployed,0,Single,76,0,6,Offer3,Two-Door Car
+3333,Basic,Unemployed,0,Married,62,1,2,Offer2,Four-Door Car
+3337,Extended,Unemployed,0,Married,96,0,1,Offer1,Four-Door Car
+3350,Extended,Employed,29504,Single,125,0,9,Offer4,SUV
+3381,Basic,Employed,82664,Married,114,3,9,Offer2,SUV
+3382,Basic,Employed,50250,Married,117,0,1,Offer3,SUV
+3387,Extended,Medical Leave,20978,Married,98,1,1,Offer2,Four-Door Car
+3394,Basic,Disabled,23815,Married,73,0,2,Offer2,Four-Door Car
+3396,Basic,Employed,88454,Divorced,101,0,1,Offer1,SUV
+3411,Basic,Medical Leave,20943,Married,69,0,1,Offer3,Four-Door Car
+3415,Extended,Employed,54408,Married,79,0,4,Offer2,Four-Door Car
+3417,Basic,Employed,91603,Single,69,2,3,Offer1,Four-Door Car
+3418,Basic,Employed,62488,Married,62,2,1,Offer2,Four-Door Car
+3421,Premium,Employed,55837,Single,117,0,9,Offer2,Two-Door Car
+3422,Basic,Unemployed,0,Single,66,0,1,Offer1,Two-Door Car
+3425,Basic,Unemployed,0,Married,74,0,1,Offer1,Four-Door Car
+3448,Basic,Medical Leave,23228,Married,64,1,6,Offer1,Four-Door Car
+3457,Basic,Employed,46900,Married,68.05722696,0,1,Offer2,Four-Door Car
+3461,Extended,Unemployed,0,Single,92,0,6,Offer3,Four-Door Car
+3463,Extended,Employed,62815,Married,80,0,1,Offer2,Two-Door Car
+3467,Basic,Unemployed,0,Single,67,1,1,Offer4,Four-Door Car
+3471,Basic,Employed,40516,Married,70,0,1,Offer2,Two-Door Car
+3484,Basic,Employed,86732,Married,91.72073591,0,1,Offer1,Luxury SUV
+3491,Extended,Employed,68516,Married,216,0,1,Offer2,Luxury SUV
+3493,Extended,Employed,24477,Married,79,0,3,Offer4,Four-Door Car
+3494,Basic,Employed,44362,Married,66,0,2,Offer2,Four-Door Car
+3497,Premium,Unemployed,0,Single,159,0,2,Offer1,SUV
+3501,Extended,Unemployed,0,Single,81,3,3,Offer1,Four-Door Car
+3502,Basic,Disabled,17672,Divorced,110,0,1,Offer3,SUV
+3509,Basic,Employed,50097,Divorced,71,0,5,Offer3,Four-Door Car
+3516,Basic,Unemployed,0,Single,106,0,1,Offer4,SUV
+3526,Basic,Employed,34644,Married,66,0,2,Offer4,Four-Door Car
+3531,Basic,Unemployed,0,Single,72,1,2,Offer3,Two-Door Car
+3534,Extended,Employed,63624,Married,95,0,5,Offer1,Four-Door Car
+3543,Extended,Employed,96587,Married,138,0,1,Offer2,SUV
+3544,Extended,Unemployed,6008.231765,Single,133,0,2,Offer1,SUV
+3547,Basic,Unemployed,0,Married,69,0,2,Offer1,Four-Door Car
+3558,Basic,Unemployed,0,Married,67,0,1,Offer2,Four-Door Car
+3563,Basic,Employed,99759,Married,65,3,2,Offer2,Two-Door Car
+3565,Basic,Employed,25899,Married,63,0,1,Offer3,Four-Door Car
+3569,Extended,Employed,41859,Married,76,0,5,Offer1,Two-Door Car
+3570,Basic,Employed,25963,Married,66,0,9,Offer2,Four-Door Car
+3577,Extended,Unemployed,0,Married,77,0,1,Offer2,Four-Door Car
+3583,Basic,Employed,91416,Married,69,0,5,Offer2,Four-Door Car
+3584,Basic,Unemployed,0,Single,70,0,2,Offer1,Four-Door Car
+3585,Premium,Employed,50117,Single,107,0,4,Offer1,Four-Door Car
+3590,Extended,Unemployed,0,Single,96,0,3,Offer1,Four-Door Car
+3595,Extended,Unemployed,0,Single,136,0,3,Offer1,SUV
+3597,Basic,Employed,20868,Married,112,0,1,Offer2,SUV
+3620,Extended,Employed,99654,Married,121,0,3,Offer3,SUV
+3628,Extended,Employed,83288,Married,124,0,1,Offer1,SUV
+3638,Basic,Employed,58883,Married,62,0,2,Offer2,Two-Door Car
+3655,Extended,Employed,39930,Single,86,1,2,Offer1,Four-Door Car
+3663,Basic,Employed,43091,Married,69,1,6,Offer1,Four-Door Car
+3666,Basic,Unemployed,0,Married,63,0,7,Offer1,Two-Door Car
+3673,Basic,Employed,55289,Single,67,0,3,Offer2,Four-Door Car
+3676,Extended,Employed,30449,Married,92,0,3,Offer1,Four-Door Car
+3690,Basic,Unemployed,0,Divorced,64,1,7,Offer1,Four-Door Car
+3693,Extended,Employed,38688,Single,249,0,3,Offer1,Luxury Car
+3697,Basic,Employed,28014,Single,104,0,2,Offer4,SUV
+3698,Extended,Employed,64825,Married,129,0,4,Offer2,SUV
+3703,Basic,Employed,77357,Single,67,0,8,Offer3,Four-Door Car
+3708,Basic,Medical Leave,17576,Married,71,0,1,Offer2,Four-Door Car
+3709,Basic,Employed,43573,Married,66,0,5,Offer1,Two-Door Car
+3718,Basic,Unemployed,0,Single,69,0,2,Offer1,Four-Door Car
+3722,Extended,Employed,63651,Single,92,0,3,Offer2,Four-Door Car
+3724,Basic,Employed,44788,Married,61,0,2,Offer2,Four-Door Car
+3725,Basic,Unemployed,0,Divorced,117,0,2,Offer1,SUV
+3727,Basic,Employed,45949,Single,62,0,1,Offer1,Two-Door Car
+3741,Basic,Employed,35596,Married,64,0,3,Offer1,Two-Door Car
+3743,Basic,Unemployed,0,Single,67,3,2,Offer1,Two-Door Car
+3746,Basic,Disabled,21986,Divorced,63,0,1,Offer2,Two-Door Car
+3747,Extended,Employed,61894,Divorced,91,0,1,Offer2,Four-Door Car
+3749,Basic,Employed,23300,Married,63,1,4,Offer3,Four-Door Car
+3751,Extended,Disabled,15999,Married,83,0,2,Offer2,Four-Door Car
+3752,Basic,Employed,62375,Married,103,1,3,Offer4,SUV
+3753,Basic,Employed,49312,Married,65,1,4,Offer1,Four-Door Car
+3764,Basic,Unemployed,0,Married,67,0,1,Offer2,Four-Door Car
+3767,Extended,Unemployed,0,Single,80,0,1,Offer3,Two-Door Car
+3789,Basic,Employed,44369,Married,68,0,8,Offer4,Four-Door Car
+3791,Basic,Unemployed,0,Single,71,0,1,Offer2,Four-Door Car
+3794,Basic,Employed,53519,Married,111,0,1,Offer4,SUV
+3798,Basic,Unemployed,0,Single,100,0,2,Offer4,SUV
+3802,Basic,Employed,74284,Married,74,0,3,Offer3,Four-Door Car
+3807,Extended,Employed,56379,Married,125,1,8,Offer1,SUV
+3819,Extended,Medical Leave,29723,Married,80,0,2,Offer1,Four-Door Car
+3820,Extended,Employed,21841,Married,91,0,7,Offer2,Four-Door Car
+3824,Basic,Employed,44305,Married,67,0,9,Offer2,Four-Door Car
+3828,Basic,Unemployed,0,Single,68,0,9,Offer1,Four-Door Car
+3835,Basic,Unemployed,0,Single,64,0,1,Offer1,Four-Door Car
+3838,Premium,Unemployed,0,Married,115,1,1,Offer2,Four-Door Car
+3839,Basic,Employed,67588,Divorced,118,0,2,Offer1,Sports Car
+3841,Extended,Unemployed,0,Single,121,0,1,Offer1,SUV
+3842,Basic,Unemployed,0,Single,67,0,3,Offer1,Four-Door Car
+3853,Extended,Employed,75838,Single,90,0,6,Offer2,Two-Door Car
+3857,Extended,Disabled,26514,Married,91,0,3,Offer2,Four-Door Car
+3858,Basic,Employed,98680,Single,72,2,1,Offer2,Four-Door Car
+3860,Basic,Employed,46593,Married,70,0,2,Offer2,Two-Door Car
+3866,Basic,Unemployed,0,Single,114,0,4,Offer1,SUV
+3873,Basic,Unemployed,0,Single,106,0,7,Offer2,SUV
+3894,Basic,Employed,85896,Married,70,0,3,Offer2,Four-Door Car
+3895,Extended,Employed,98278,Married,85,0,1,Offer4,Four-Door Car
+3900,Basic,Unemployed,0,Married,71,0,1,Offer1,Two-Door Car
+3904,Basic,Employed,24123,Married,104,0,1,Offer4,SUV
+3905,Basic,Employed,36650,Married,69,1,1,Offer2,Four-Door Car
+3909,Extended,Employed,28025,Married,100.6523248,0,2,Offer2,Four-Door Car
+3911,Basic,Unemployed,0,Single,70,0,2,Offer2,Four-Door Car
+3917,Basic,Employed,42585,Married,69,0,1,Offer1,Two-Door Car
+3920,Basic,Unemployed,0,Single,72,2,1,Offer1,Four-Door Car
+3934,Basic,Employed,49833,Married,69,0,7,Offer3,Four-Door Car
+3935,Basic,Employed,35289,Married,65,0,3,Offer4,Four-Door Car
+3938,Basic,Employed,73478,Married,68,0,1,Offer2,Four-Door Car
+3939,Basic,Unemployed,0,Married,102,0,1,Offer2,SUV
+3942,Basic,Employed,26746,Single,66,0,1,Offer1,Two-Door Car
+3945,Extended,Employed,39393,Single,121,0,2,Offer1,SUV
+3947,Extended,Unemployed,0,Married,81,0,2,Offer3,Four-Door Car
+3961,Basic,Employed,43916,Divorced,68,2,2,Offer2,Four-Door Car
+3965,Basic,Medical Leave,19637,Married,67,0,1,Offer1,Four-Door Car
+3970,Extended,Employed,39794,Single,133,0,2,Offer1,SUV
+3972,Extended,Employed,42433,Married,85,0,5,Offer4,Four-Door Car
+3975,Basic,Disabled,22044,Divorced,65,0,2,Offer1,Four-Door Car
+3990,Extended,Employed,72919,Married,130,5,1,Offer4,SUV
+4014,Extended,Employed,57709,Married,125,0,1,Offer2,SUV
+4015,Extended,Employed,40032,Married,99,0,8,Offer2,Four-Door Car
+4025,Basic,Unemployed,0,Married,66,1,2,Offer3,Four-Door Car
+4038,Extended,Employed,62530,Married,95,0,1,Offer4,Four-Door Car
+4044,Basic,Employed,61225,Married,117,0,2,Offer2,SUV
+4047,Basic,Employed,95697,Married,61,0,1,Offer2,Two-Door Car
+4053,Basic,Unemployed,0,Married,107,0,3,Offer1,SUV
+4056,Basic,Employed,43657,Married,66,0,2,Offer1,Two-Door Car
+4071,Extended,Employed,31134,Married,96,0,6,Offer3,Four-Door Car
+4072,Basic,Employed,64604,Married,67,1,8,Offer1,Four-Door Car
+4073,Extended,Employed,20676,Single,79,0,7,Offer3,Four-Door Car
+4074,Basic,Employed,32397,Married,190,0,1,Offer1,Luxury SUV
+4075,Extended,Unemployed,0,Single,121,2,1,Offer1,SUV
+4077,Basic,Unemployed,0,Single,73,0,1,Offer1,Four-Door Car
+4083,Basic,Employed,81568,Married,186,0,1,Offer2,Luxury SUV
+4086,Extended,Unemployed,0,Married,128,1,1,Offer1,Sports Car
+4090,Basic,Employed,44856,Divorced,66,1,2,Offer4,Four-Door Car
+4104,Basic,Employed,21766,Married,62,0,3,Offer4,Four-Door Car
+4107,Premium,Unemployed,0,Single,117,1,2,Offer1,Two-Door Car
+4108,Basic,Employed,22050,Divorced,66,0,1,Offer3,Four-Door Car
+4112,Extended,Employed,40097,Single,68.27718165,4,1,Offer1,Two-Door Car
+4114,Basic,Employed,88545,Married,68,0,1,Offer3,Four-Door Car
+4121,Basic,Employed,52443,Married,73,1,4,Offer2,Four-Door Car
+4124,Basic,Unemployed,0,Single,74,0,4,Offer4,Four-Door Car
+4126,Basic,Unemployed,0,Divorced,66,0,3,Offer3,Four-Door Car
+4131,Basic,Employed,69736,Married,111,0,3,Offer1,SUV
+4137,Basic,Employed,40864,Married,109,1,1,Offer1,SUV
+4144,Basic,Employed,34236,Married,70,0,8,Offer1,Four-Door Car
+4151,Extended,Disabled,17200,Married,83,4,8,Offer1,Four-Door Car
+4159,Basic,Employed,52957,Married,112,0,1,Offer1,Sports Car
+4165,Basic,Unemployed,0,Married,102,0,2,Offer1,SUV
+4169,Basic,Employed,27166,Single,71,0,5,Offer2,Four-Door Car
+4178,Basic,Employed,97673,Single,63,0,1,Offer4,Four-Door Car
+4198,Basic,Employed,68931,Married,66,0,7,Offer2,Four-Door Car
+4202,Basic,Employed,97949,Married,112,3,1,Offer4,SUV
+4205,Basic,Unemployed,0,Married,102,0,1,Offer2,SUV
+4216,Basic,Employed,51878,Single,66,1,2,Offer2,Four-Door Car
+4223,Premium,Employed,24550,Married,111,0,9,Offer2,Four-Door Car
+4224,Basic,Employed,63110,Married,69.58978971,0,2,Offer3,Four-Door Car
+4264,Basic,Employed,63401,Married,68,0,1,Offer2,Four-Door Car
+4273,Basic,Employed,78618,Divorced,66,0,1,Offer1,Two-Door Car
+4281,Premium,Employed,54538,Married,142.0651366,0,6,Offer1,Four-Door Car
+4312,Extended,Employed,82477,Married,90,0,1,Offer2,Two-Door Car
+4313,Basic,Unemployed,0,Single,63,0,8,Offer1,Four-Door Car
+4315,Extended,Medical Leave,28519,Married,86,0,2,Offer4,Two-Door Car
+4331,Extended,Employed,37384,Married,99,0,1,Offer2,Four-Door Car
+4340,Basic,Employed,38870,Divorced,74,0,1,Offer1,Four-Door Car
+4344,Basic,Unemployed,0,Single,73,3,5,Offer1,Two-Door Car
+4345,Basic,Employed,26378,Married,70,1,2,Offer2,Four-Door Car
+4346,Basic,Employed,67798,Divorced,69,0,9,Offer1,Four-Door Car
+4351,Basic,Employed,59107,Married,107,0,7,Offer2,SUV
+4358,Extended,Employed,36428,Divorced,124,0,1,Offer2,SUV
+4369,Extended,Employed,49539,Single,79,0,5,Offer2,Two-Door Car
+4376,Basic,Unemployed,0,Single,66,1,1,Offer2,Four-Door Car
+4383,Extended,Unemployed,0,Single,91,0,1,Offer1,Two-Door Car
+4390,Basic,Employed,22373,Married,112,0,8,Offer1,SUV
+4393,Basic,Employed,65099,Married,73,2,1,Offer2,Four-Door Car
+4394,Basic,Employed,23401,Single,66,0,3,Offer4,Four-Door Car
+4400,Basic,Unemployed,0,Married,63,1,3,Offer4,Four-Door Car
+4401,Premium,Employed,38692,Married,102,0,1,Offer1,Four-Door Car
+4417,Basic,Unemployed,0,Single,64,0,9,Offer3,Four-Door Car
+4422,Extended,Employed,21144,Married,86,0,8,Offer1,Two-Door Car
+4431,Premium,Employed,36645,Single,112,0,7,Offer2,Four-Door Car
+4439,Basic,Employed,31842,Single,108,0,1,Offer4,SUV
+4442,Extended,Unemployed,0,Married,131,0,8,Offer3,Sports Car
+4443,Basic,Employed,75909,Married,117,0,3,Offer3,Sports Car
+4446,Basic,Employed,99839,Married,66,0,3,Offer3,Four-Door Car
+4451,Basic,Employed,24186,Single,64,0,1,Offer2,Four-Door Car
+4455,Basic,Employed,46971,Married,69,0,3,Offer1,Four-Door Car
+4462,Basic,Employed,26790,Married,71,0,1,Offer2,Two-Door Car
+4463,Basic,Employed,97719,Married,67,0,1,Offer3,Four-Door Car
+4465,Basic,Employed,49530,Married,63,0,2,Offer2,Four-Door Car
+4475,Basic,Employed,79140,Married,74,0,9,Offer1,Four-Door Car
+4481,Basic,Employed,23550,Married,67.13905735,0,3,Offer2,Four-Door Car
+4495,Extended,Employed,89285,Married,81,0,3,Offer2,Four-Door Car
+4503,Basic,Employed,36631,Divorced,62,0,1,Offer1,Four-Door Car
+4510,Basic,Employed,85067,Married,65.53627735,0,2,Offer2,Four-Door Car
+4515,Basic,Employed,57446,Divorced,64,0,2,Offer1,Four-Door Car
+4523,Premium,Employed,96768,Married,111,2,3,Offer2,Four-Door Car
+4539,Premium,Unemployed,2440.745489,Single,180,3,2,Offer2,SUV
+4548,Basic,Unemployed,0,Single,184,0,9,Offer2,Luxury SUV
+4551,Basic,Unemployed,0,Married,66,0,2,Offer2,Four-Door Car
+4554,Basic,Employed,99239,Single,74,0,6,Offer4,Four-Door Car
+4565,Premium,Employed,50494,Married,114,0,2,Offer2,Two-Door Car
+4588,Premium,Employed,86721,Divorced,110,1,3,Offer1,Two-Door Car
+4591,Extended,Unemployed,0,Married,238,0,2,Offer3,Luxury SUV
+4593,Extended,Employed,48784,Married,96,0,3,Offer1,Four-Door Car
+4609,Basic,Disabled,18661,Married,62,0,1,Offer2,Two-Door Car
+4631,Premium,Unemployed,0,Single,111,0,3,Offer2,Two-Door Car
+4656,Extended,Unemployed,0,Single,126,0,2,Offer1,SUV
+4661,Basic,Unemployed,0,Single,114,0,1,Offer1,Sports Car
+4677,Basic,Medical Leave,27132,Single,63,1,4,Offer1,Four-Door Car
+4679,Basic,Employed,46507,Married,73,4,3,Offer1,Two-Door Car
+4681,Extended,Employed,60804,Married,92,0,1,Offer2,Four-Door Car
+4684,Extended,Employed,38279,Married,82,0,2,Offer1,Two-Door Car
+4686,Basic,Unemployed,0,Married,61,0,7,Offer2,Four-Door Car
+4699,Extended,Employed,50886,Single,95,1,9,Offer4,Two-Door Car
+4705,Extended,Employed,37233,Divorced,136,0,5,Offer1,SUV
+4724,Extended,Disabled,23059,Divorced,126,0,3,Offer3,Sports Car
+4725,Basic,Disabled,26057,Divorced,74,0,2,Offer1,Four-Door Car
+4732,Extended,Medical Leave,25852,Married,135,1,2,Offer1,Sports Car
+4747,Basic,Employed,53304,Married,65,0,1,Offer3,Four-Door Car
+4755,Extended,Employed,51593,Married,80,2,2,Offer1,Two-Door Car
+4761,Basic,Unemployed,0,Single,190,1,4,Offer1,Luxury Car
+4764,Basic,Employed,72897,Married,73,0,2,Offer1,Two-Door Car
+4768,Basic,Disabled,23124,Married,112,0,1,Offer3,Sports Car
+4774,Basic,Unemployed,0,Single,73,1,3,Offer1,Four-Door Car
+4782,Basic,Employed,27880,Married,74,0,5,Offer2,Four-Door Car
+4783,Basic,Employed,45963,Married,63,2,2,Offer1,Four-Door Car
+4787,Extended,Unemployed,0,Single,77,0,1,Offer2,Four-Door Car
+4789,Basic,Disabled,17950,Married,71,2,2,Offer2,Two-Door Car
+4792,Extended,Employed,82477,Married,90,0,1,Offer2,Two-Door Car
+4793,Basic,Unemployed,0,Married,70,1,1,Offer2,Two-Door Car
+4804,Basic,Employed,86812,Married,73,0,3,Offer4,Four-Door Car
+4808,Premium,Medical Leave,12195,Divorced,101,0,7,Offer1,Four-Door Car
+4809,Basic,Employed,75644,Divorced,65,3,9,Offer2,Two-Door Car
+4817,Basic,Employed,63860,Married,62,0,1,Offer2,Four-Door Car
+4818,Premium,Employed,51193,Married,104,2,1,Offer1,Two-Door Car
+4823,Basic,Employed,64304,Divorced,68,0,2,Offer3,Two-Door Car
+4824,Basic,Unemployed,0,Married,72,0,2,Offer4,Four-Door Car
+4826,Basic,Employed,58139,Married,65,1,1,Offer4,Four-Door Car
+4828,Extended,Employed,69678,Divorced,126,0,1,Offer3,Sports Car
+4830,Basic,Employed,22908,Married,68.78529023,0,7,Offer3,Four-Door Car
+4849,Premium,Employed,68273,Divorced,146,0,2,Offer2,Sports Car
+4866,Basic,Employed,88370,Divorced,74,1,9,Offer1,Four-Door Car
+4870,Basic,Medical Leave,12607,Married,110,0,2,Offer1,SUV
+4876,Basic,Unemployed,3930.586448,Single,113,0,4,Offer4,SUV
+4879,Basic,Unemployed,0,Divorced,103,2,6,Offer1,SUV
+4896,Premium,Employed,69921,Divorced,118,2,1,Offer1,Two-Door Car
+4902,Extended,Disabled,26864,Divorced,78,0,2,Offer3,Four-Door Car
+4907,Basic,Unemployed,0,Single,69,0,4,Offer1,Four-Door Car
+4928,Premium,Employed,24285,Divorced,111,0,7,Offer4,Two-Door Car
+4930,Basic,Employed,32983,Married,113,0,1,Offer2,SUV
+4954,Basic,Employed,55992,Married,67,0,3,Offer1,Four-Door Car
+4962,Premium,Employed,74871,Married,178,0,7,Offer1,SUV
+4969,Basic,Unemployed,0,Married,64,1,3,Offer2,Four-Door Car
+4971,Basic,Unemployed,0,Single,69,1,2,Offer1,Four-Door Car
+4992,Extended,Employed,74270,Single,78,0,7,Offer4,Two-Door Car
+4998,Basic,Disabled,22886,Divorced,65,0,3,Offer1,Four-Door Car
+5001,Extended,Employed,48245,Married,121,3,2,Offer1,SUV
+5002,Basic,Unemployed,0,Single,74,0,2,Offer1,Two-Door Car
+5004,Basic,Employed,58467,Married,65,0,2,Offer2,Four-Door Car
+5008,Basic,Unemployed,0,Divorced,183,2,7,Offer1,Luxury SUV
+5017,Basic,Unemployed,0,Married,62,0,3,Offer1,Four-Door Car
+5037,Basic,Unemployed,0,Married,69,1,1,Offer4,Four-Door Car
+5051,Basic,Disabled,13933,Married,62,0,6,Offer1,Two-Door Car
+5053,Basic,Employed,51789,Married,61,0,2,Offer4,Two-Door Car
+5058,Basic,Employed,61972,Married,64,2,5,Offer4,Four-Door Car
+5062,Extended,Employed,69792,Single,137,0,3,Offer2,SUV
+5080,Basic,Employed,73054,Married,106,1,2,Offer1,SUV
+5086,Basic,Unemployed,0,Divorced,67,0,7,Offer1,Four-Door Car
+5095,Basic,Employed,53602,Married,115,0,2,Offer1,Sports Car
+5099,Basic,Employed,23867,Married,65,0,1,Offer3,Four-Door Car
+5108,Basic,Unemployed,0,Married,63,0,1,Offer2,Four-Door Car
+5112,Extended,Employed,37056,Married,92,0,2,Offer1,Four-Door Car
+5128,Basic,Medical Leave,12964,Single,65,0,4,Offer1,Two-Door Car
+5150,Basic,Employed,30916,Single,70,0,1,Offer3,Four-Door Car
+5152,Basic,Disabled,26057,Divorced,75.38163546,0,2,Offer1,Four-Door Car
+5155,Premium,Employed,86653,Married,111,0,2,Offer2,Four-Door Car
+5156,Basic,Disabled,24395,Married,62,0,3,Offer1,Two-Door Car
+5173,Basic,Medical Leave,14665,Married,74.55220627,0,3,Offer3,Four-Door Car
+5186,Basic,Unemployed,0,Married,63,0,1,Offer1,Four-Door Car
+5189,Extended,Unemployed,0,Single,87,1,2,Offer1,Four-Door Car
+5202,Basic,Employed,28695,Single,64,0,4,Offer1,Four-Door Car
+5205,Basic,Employed,53330,Single,65,0,2,Offer1,Four-Door Car
+5210,Extended,Unemployed,0,Single,88,0,1,Offer1,Four-Door Car
+5211,Basic,Employed,79090,Married,107,0,3,Offer2,SUV
+5220,Basic,Employed,43906,Divorced,65,0,6,Offer1,Two-Door Car
+5222,Basic,Employed,78127,Married,69,0,1,Offer3,Four-Door Car
+5225,Basic,Disabled,20392,Married,73,0,9,Offer2,Four-Door Car
+5226,Basic,Employed,30886,Divorced,61,0,6,Offer2,Four-Door Car
+5231,Basic,Employed,33089,Married,61,0,2,Offer1,Four-Door Car
+5235,Extended,Employed,44368,Married,80,0,3,Offer2,Two-Door Car
+5239,Basic,Employed,20355,Married,74.35920817,1,3,Offer2,Four-Door Car
+5258,Basic,Disabled,26057,Divorced,74,0,2,Offer1,Four-Door Car
+5264,Basic,Employed,99845,Married,110,1,8,Offer2,SUV
+5275,Basic,Unemployed,0,Single,101,0,3,Offer4,SUV
+5277,Extended,Employed,92423,Married,88,0,6,Offer2,Four-Door Car
+5290,Basic,Employed,93210,Married,107,2,2,Offer1,SUV
+5300,Extended,Employed,36800,Single,91,0,2,Offer2,Two-Door Car
+5305,Basic,Employed,28663,Married,61,4,7,Offer4,Four-Door Car
+5308,Extended,Employed,52982,Divorced,89,0,3,Offer1,Four-Door Car
+5311,Basic,Employed,52009,Married,68,0,2,Offer1,Four-Door Car
+5313,Basic,Employed,28738,Divorced,62,0,1,Offer1,Two-Door Car
+5315,Basic,Employed,70958,Married,115,0,7,Offer1,Sports Car
+5318,Extended,Employed,32821,Married,129,0,4,Offer1,SUV
+5321,Extended,Employed,56263,Married,93,0,2,Offer2,Four-Door Car
+5324,Basic,Employed,29638,Married,64,0,8,Offer4,Four-Door Car
+5327,Premium,Unemployed,0,Married,119,0,2,Offer1,Four-Door Car
+5337,Basic,Employed,30969,Divorced,77.0813707,1,2,Offer1,Two-Door Car
+5369,Extended,Unemployed,0,Single,139,0,1,Offer1,SUV
+5391,Extended,Employed,29695,Married,94,0,2,Offer2,Four-Door Car
+5392,Basic,Unemployed,0,Single,118,0,8,Offer1,SUV
+5393,Premium,Disabled,11885,Divorced,101,0,2,Offer1,Four-Door Car
+5396,Premium,Employed,52717,Married,109,0,8,Offer3,Four-Door Car
+5401,Extended,Employed,57693,Divorced,76,0,3,Offer2,Four-Door Car
+5410,Premium,Unemployed,14290,Married,281,1,2,Offer1,Luxury SUV
+5414,Basic,Unemployed,8182.399605,Single,111,3,6,Offer1,SUV
+5427,Basic,Medical Leave,17101,Single,113,0,2,Offer1,SUV
+5428,Basic,Unemployed,0,Married,101,4,1,Offer1,SUV
+5429,Basic,Employed,74606,Divorced,68,0,5,Offer4,Two-Door Car
+5439,Basic,Employed,41438,Single,72,0,9,Offer1,Two-Door Car
+5456,Extended,Unemployed,0,Married,86,1,2,Offer1,Four-Door Car
+5457,Basic,Employed,87197,Single,63,0,3,Offer2,Two-Door Car
+5461,Extended,Employed,96306,Divorced,95,1,6,Offer1,Four-Door Car
+5462,Basic,Disabled,22249,Married,64,0,2,Offer4,Four-Door Car
+5468,Extended,Employed,54507,Married,138,0,1,Offer2,SUV
+5469,Basic,Medical Leave,20754,Divorced,184,0,7,Offer1,Luxury SUV
+5481,Extended,Unemployed,0,Single,93,0,4,Offer1,Four-Door Car
+5482,Basic,Employed,62902,Married,69,0,2,Offer2,Two-Door Car
+5499,Basic,Unemployed,0,Married,70,2,1,Offer4,Two-Door Car
+5501,Basic,Employed,43386,Single,111,0,1,Offer1,SUV
+5504,Basic,Employed,25558,Married,75.51507629,0,1,Offer2,Four-Door Car
+5511,Extended,Unemployed,0,Married,88,0,4,Offer4,Four-Door Car
+5516,Basic,Employed,26691,Married,65,0,1,Offer3,Four-Door Car
+5520,Basic,Employed,58089,Married,118,0,1,Offer1,SUV
+5521,Basic,Unemployed,0,Married,68,0,1,Offer3,Four-Door Car
+5532,Basic,Medical Leave,20588,Married,113,0,7,Offer1,SUV
+5548,Extended,Unemployed,0,Single,89,0,2,Offer1,Two-Door Car
+5552,Basic,Employed,53252,Married,117,0,1,Offer2,SUV
+5558,Basic,Employed,20090,Married,109,0,2,Offer2,Sports Car
+5559,Basic,Employed,81721,Single,63,0,1,Offer2,Four-Door Car
+5567,Extended,Unemployed,1710.069259,Single,139,0,1,Offer2,SUV
+5579,Basic,Employed,89797,Married,106,0,1,Offer2,SUV
+5590,Basic,Unemployed,0,Married,117,0,1,Offer3,Sports Car
+5592,Extended,Employed,94508,Married,88,0,3,Offer4,Four-Door Car
+5599,Extended,Unemployed,0,Single,77,1,2,Offer1,Four-Door Car
+5600,Basic,Employed,41186,Single,70,4,3,Offer1,Four-Door Car
+5602,Basic,Employed,29070,Married,61,2,3,Offer3,Two-Door Car
+5603,Basic,Employed,23449,Married,61,0,8,Offer2,Four-Door Car
+5622,Basic,Employed,60455,Single,104,0,2,Offer4,SUV
+5623,Extended,Unemployed,0,Single,89,4,1,Offer1,Four-Door Car
+5625,Extended,Employed,52823,Married,95,0,5,Offer2,Two-Door Car
+5627,Basic,Disabled,26784,Married,67,0,8,Offer3,Four-Door Car
+5628,Basic,Employed,22354,Married,118,0,2,Offer1,SUV
+5629,Basic,Unemployed,0,Single,69.99691761,0,4,Offer3,Four-Door Car
+5630,Basic,Unemployed,0,Single,115,1,2,Offer1,SUV
+5636,Basic,Unemployed,0,Divorced,69,0,1,Offer1,Two-Door Car
+5652,Basic,Employed,40046,Divorced,73,0,1,Offer1,Four-Door Car
+5665,Basic,Unemployed,0,Single,61,0,1,Offer1,Four-Door Car
+5670,Basic,Employed,80681,Married,74,0,1,Offer2,Four-Door Car
+5672,Basic,Unemployed,0,Single,62,2,2,Offer4,Two-Door Car
+5681,Basic,Employed,73054,Married,106,1,2,Offer1,SUV
+5700,Basic,Unemployed,0,Single,117,0,5,Offer2,SUV
+5703,Extended,Medical Leave,23749,Married,77,0,4,Offer1,Four-Door Car
+5707,Basic,Employed,83502,Married,68,0,1,Offer2,Four-Door Car
+5711,Extended,Unemployed,11975.17906,Married,96,0,1,Offer3,Four-Door Car
+5715,Basic,Unemployed,0,Single,189,0,6,Offer1,Luxury Car
+5720,Basic,Unemployed,0,Single,68,3,5,Offer2,Four-Door Car
+5721,Basic,Employed,43540,Married,70,0,1,Offer2,Two-Door Car
+5723,Basic,Employed,96961,Married,75.12349855,0,2,Offer4,Two-Door Car
+5733,Premium,Employed,35173,Married,180,2,1,Offer1,Sports Car
+5738,Basic,Employed,65431,Married,69,0,1,Offer4,Four-Door Car
+5747,Extended,Employed,77143,Married,125,3,2,Offer1,SUV
+5756,Basic,Employed,25927,Single,103,0,1,Offer2,SUV
+5759,Extended,Employed,75490,Married,97,0,7,Offer2,Four-Door Car
+5760,Basic,Employed,85470,Single,109,0,6,Offer1,SUV
+5765,Extended,Unemployed,2397.33569,Married,89,0,7,Offer3,Two-Door Car
+5774,Basic,Unemployed,0,Single,74,1,1,Offer4,Four-Door Car
+5780,Extended,Employed,22448,Married,136.9810352,0,2,Offer1,SUV
+5783,Basic,Unemployed,0,Single,70,0,5,Offer2,Four-Door Car
+5798,Basic,Employed,41372,Married,64,0,1,Offer2,Four-Door Car
+5799,Basic,Unemployed,0,Single,67,0,2,Offer3,Four-Door Car
+5806,Extended,Employed,96306,Divorced,95,1,6,Offer1,Four-Door Car
+5813,Basic,Employed,72421,Married,65,0,1,Offer2,Four-Door Car
+5826,Extended,Unemployed,0,Married,132,3,1,Offer1,Sports Car
+5829,Basic,Disabled,19096,Divorced,64,0,3,Offer1,Two-Door Car
+5837,Basic,Employed,44804,Single,114,0,1,Offer4,SUV
+5860,Basic,Employed,82828,Married,67,1,2,Offer4,Four-Door Car
+5862,Extended,Employed,30352,Married,89,0,2,Offer1,Four-Door Car
+5879,Basic,Employed,94310,Divorced,70,4,1,Offer4,Four-Door Car
+5886,Premium,Disabled,10384,Married,151,0,5,Offer1,SUV
+5896,Basic,Employed,64367,Married,104,0,9,Offer3,SUV
+5904,Extended,Medical Leave,26263,Divorced,85,0,2,Offer4,Two-Door Car
+5907,Basic,Medical Leave,20284,Single,65,1,3,Offer1,Four-Door Car
+5909,Basic,Employed,92296,Married,69,0,1,Offer2,Two-Door Car
+5916,Basic,Unemployed,0,Single,69,5,3,Offer4,Two-Door Car
+5923,Extended,Employed,26884,Married,89,0,1,Offer4,Four-Door Car
+5944,Extended,Employed,34498,Single,83,0,7,Offer2,Two-Door Car
+5953,Extended,Employed,37813,Married,78,1,5,Offer1,Four-Door Car
+5967,Basic,Employed,88126,Married,64,1,1,Offer2,Four-Door Car
+5980,Basic,Unemployed,0,Single,71,4,2,Offer2,Four-Door Car
+5985,Basic,Unemployed,0,Single,64,1,1,Offer2,Four-Door Car
+5993,Basic,Disabled,25226,Divorced,71,1,4,Offer1,Four-Door Car
+6001,Basic,Employed,30092,Married,108,0,9,Offer2,SUV
+6002,Extended,Unemployed,0,Divorced,86,0,2,Offer2,Four-Door Car
+6013,Extended,Employed,41479,Married,94,1,1,Offer2,Two-Door Car
+6026,Basic,Employed,67326,Married,69,0,2,Offer1,Four-Door Car
+6028,Basic,Employed,24882,Married,72,0,8,Offer4,Two-Door Car
+6031,Extended,Employed,33169,Married,128,0,1,Offer4,SUV
+6036,Basic,Employed,39034,Married,68,0,2,Offer1,Four-Door Car
+6041,Extended,Employed,46750,Married,82,1,3,Offer3,Two-Door Car
+6062,Extended,Employed,63867,Married,89,1,3,Offer3,Four-Door Car
+6065,Basic,Unemployed,2553.987025,Divorced,118,0,1,Offer1,SUV
+6077,Basic,Employed,55542,Single,117,0,5,Offer1,Sports Car
+6086,Extended,Employed,28915,Single,76,0,2,Offer4,Four-Door Car
+6100,Extended,Employed,91774,Single,81,0,1,Offer1,Four-Door Car
+6102,Extended,Unemployed,0,Married,96,0,2,Offer2,Four-Door Car
+6108,Extended,Unemployed,0,Married,122,2,9,Offer2,SUV
+6115,Extended,Employed,23705,Married,122,4,1,Offer1,SUV
+6116,Basic,Unemployed,0,Married,105,0,3,Offer1,SUV
+6117,Basic,Employed,23241,Married,70,0,9,Offer2,Two-Door Car
+6120,Basic,Unemployed,0,Single,73,0,9,Offer2,Four-Door Car
+6128,Basic,Employed,58493,Married,67,0,4,Offer3,Four-Door Car
+6131,Basic,Employed,52342,Married,66,3,2,Offer1,Two-Door Car
+6153,Basic,Employed,42012,Married,63,0,1,Offer1,Four-Door Car
+6159,Extended,Employed,35124,Married,137,0,2,Offer1,SUV
+6161,Basic,Employed,65985,Single,71,5,4,Offer2,Four-Door Car
+6162,Basic,Employed,63624,Married,115,2,2,Offer4,SUV
+6163,Extended,Unemployed,0,Single,89,0,4,Offer1,Four-Door Car
+6170,Basic,Employed,99875,Divorced,108,0,2,Offer3,SUV
+6173,Basic,Unemployed,0,Divorced,66,4,1,Offer1,Four-Door Car
+6174,Basic,Employed,70705,Married,69,2,6,Offer1,Two-Door Car
+6175,Basic,Employed,22724,Single,69,0,1,Offer3,Four-Door Car
+6183,Basic,Employed,26320,Married,111,0,9,Offer1,SUV
+6190,Basic,Unemployed,0,Single,69,0,8,Offer1,Four-Door Car
+6191,Basic,Unemployed,0,Single,70,0,1,Offer1,Four-Door Car
+6194,Basic,Employed,25180,Married,70,0,9,Offer2,Four-Door Car
+6197,Basic,Employed,92539,Single,100,0,1,Offer2,SUV
+6201,Basic,Employed,75453,Married,112,0,1,Offer2,SUV
+6202,Basic,Employed,94003,Single,65.44309725,0,1,Offer2,Four-Door Car
+6205,Basic,Employed,86481,Single,65,0,2,Offer1,Two-Door Car
+6206,Extended,Employed,27228,Married,129,4,1,Offer4,Sports Car
+6208,Basic,Employed,95697,Married,107,0,9,Offer2,Sports Car
+6211,Basic,Employed,88079,Married,61,0,3,Offer2,Two-Door Car
+6214,Basic,Employed,36283,Divorced,68,1,1,Offer1,Four-Door Car
+6217,Basic,Employed,66991,Married,115,0,1,Offer2,SUV
+6218,Basic,Employed,44855,Married,63,1,1,Offer2,Four-Door Car
+6219,Premium,Employed,48263,Married,104,0,1,Offer2,Two-Door Car
+6232,Basic,Employed,76847,Single,118,0,3,Offer1,SUV
+6245,Basic,Unemployed,0,Single,71,0,2,Offer1,Four-Door Car
+6254,Basic,Employed,28743,Single,112,0,3,Offer3,SUV
+6255,Basic,Employed,30130,Married,110,0,2,Offer1,SUV
+6261,Premium,Unemployed,0,Single,275,1,1,Offer1,Luxury SUV
+6274,Basic,Employed,97736,Married,74,0,2,Offer4,Four-Door Car
+6275,Basic,Employed,62271,Married,63,0,3,Offer4,Four-Door Car
+6276,Extended,Unemployed,0,Married,76,0,3,Offer2,Four-Door Car
+6285,Basic,Employed,33345,Divorced,102,0,2,Offer2,SUV
+6300,Basic,Employed,33176,Married,63,0,3,Offer3,Four-Door Car
+6312,Basic,Unemployed,0,Married,69,0,2,Offer1,Four-Door Car
+6325,Basic,Medical Leave,22885,Married,73,0,1,Offer2,Four-Door Car
+6327,Basic,Unemployed,0,Single,74,3,1,Offer4,Four-Door Car
+6340,Basic,Employed,40818,Married,66,0,6,Offer4,Four-Door Car
+6342,Extended,Unemployed,0,Single,95,0,1,Offer1,Four-Door Car
+6354,Basic,Employed,72878,Married,61,2,2,Offer2,Two-Door Car
+6356,Basic,Employed,52278,Married,73,0,3,Offer1,Two-Door Car
+6372,Basic,Employed,22537,Married,64,1,2,Offer4,Four-Door Car
+6377,Extended,Unemployed,0,Single,98,1,2,Offer1,Two-Door Car
+6382,Basic,Unemployed,0,Married,72,0,9,Offer1,Two-Door Car
+6393,Premium,Employed,55217,Married,107,2,9,Offer1,Two-Door Car
+6401,Extended,Employed,43499,Married,80,0,1,Offer4,Four-Door Car
+6408,Extended,Disabled,21497,Married,128,0,1,Offer3,Sports Car
+6410,Extended,Employed,77031,Married,125,0,1,Offer2,SUV
+6411,Basic,Employed,95733,Married,72,0,3,Offer1,Two-Door Car
+6430,Premium,Medical Leave,12843,Single,111,0,3,Offer2,Four-Door Car
+6444,Premium,Employed,39007,Married,105,0,2,Offer1,Two-Door Car
+6474,Basic,Employed,20290,Married,113,0,3,Offer4,SUV
+6483,Basic,Disabled,11920,Married,74,0,7,Offer1,Four-Door Car
+6494,Extended,Employed,97162,Married,86,0,1,Offer3,Four-Door Car
+6516,Extended,Unemployed,0,Divorced,87,3,1,Offer2,Four-Door Car
+6533,Basic,Employed,85789,Married,105,2,2,Offer1,Sports Car
+6534,Basic,Employed,75921,Married,106,0,1,Offer3,SUV
+6536,Basic,Unemployed,0,Married,118,1,2,Offer1,SUV
+6540,Basic,Unemployed,0,Single,65,0,3,Offer3,Four-Door Car
+6543,Extended,Unemployed,0,Married,97,0,3,Offer4,Four-Door Car
+6549,Basic,Employed,51991,Married,73,0,1,Offer2,Four-Door Car
+6553,Basic,Unemployed,5401.987337,Married,66.08302748,0,2,Offer4,Four-Door Car
+6575,Premium,Unemployed,0,Single,102,0,1,Offer2,Four-Door Car
+6587,Basic,Employed,53305,Single,63,0,4,Offer1,Two-Door Car
+6595,Extended,Unemployed,0,Married,83.8405717,1,4,Offer1,Four-Door Car
+6596,Extended,Employed,28505,Married,88,0,2,Offer4,Four-Door Car
+6598,Premium,Unemployed,0,Single,261,0,1,Offer4,Luxury Car
+6599,Extended,Employed,73661,Married,128,0,3,Offer2,SUV
+6600,Basic,Employed,91890,Married,107,0,7,Offer3,SUV
+6610,Basic,Unemployed,0,Single,65,0,9,Offer1,Two-Door Car
+6623,Basic,Employed,52972,Single,74,0,1,Offer2,Four-Door Car
+6625,Basic,Employed,79192,Divorced,70,0,1,Offer2,Two-Door Car
+6630,Premium,Unemployed,0,Single,109.1460053,0,2,Offer3,Sports Car
+6634,Extended,Employed,75180,Single,77,3,1,Offer3,Four-Door Car
+6639,Extended,Unemployed,0,Single,97,0,2,Offer4,Four-Door Car
+6659,Extended,Employed,21897,Single,139,0,2,Offer2,SUV
+6671,Extended,Employed,43630,Divorced,99,0,3,Offer3,Four-Door Car
+6674,Extended,Medical Leave,23811,Divorced,130,0,1,Offer1,SUV
+6677,Basic,Employed,23840,Married,64,0,7,Offer4,Four-Door Car
+6679,Premium,Employed,95715,Married,119,2,2,Offer1,Four-Door Car
+6681,Basic,Employed,83365,Married,109,1,4,Offer2,SUV
+6689,Premium,Employed,25048,Married,167,0,5,Offer1,SUV
+6694,Basic,Medical Leave,26887,Single,113,0,2,Offer1,SUV
+6700,Basic,Employed,49345,Married,69,0,7,Offer2,Two-Door Car
+6702,Basic,Employed,44096,Divorced,72,1,2,Offer1,Four-Door Car
+6709,Basic,Unemployed,0,Single,117,0,1,Offer3,Sports Car
+6712,Extended,Employed,25748,Married,90,0,1,Offer3,Four-Door Car
+6730,Extended,Unemployed,0,Single,205,0,4,Offer1,Luxury Car
+6732,Basic,Employed,58542,Married,114,0,2,Offer2,SUV
+6734,Basic,Employed,86901,Single,72,0,2,Offer1,Two-Door Car
+6737,Extended,Employed,73359,Married,94,0,2,Offer2,Two-Door Car
+6742,Basic,Employed,25949,Married,104,0,3,Offer2,SUV
+6762,Basic,Employed,91354,Married,68,0,2,Offer2,Two-Door Car
+6768,Basic,Medical Leave,10211,Divorced,119,0,7,Offer3,SUV
+6769,Basic,Unemployed,0,Divorced,68,0,1,Offer1,Four-Door Car
+6771,Basic,Employed,92766,Married,71,0,2,Offer2,Two-Door Car
+6776,Basic,Employed,50071,Single,71,0,1,Offer2,Two-Door Car
+6779,Extended,Employed,53058,Married,91,4,3,Offer1,Four-Door Car
+6797,Basic,Employed,26790,Married,71,0,1,Offer2,Two-Door Car
+6805,Extended,Unemployed,0,Divorced,95,0,5,Offer1,Two-Door Car
+6806,Premium,Unemployed,0,Married,153,0,1,Offer2,SUV
+6807,Basic,Employed,65636,Married,67,0,2,Offer2,Four-Door Car
+6817,Basic,Disabled,12590,Married,73,0,2,Offer1,Two-Door Car
+6823,Extended,Disabled,27982,Divorced,87,0,1,Offer4,Two-Door Car
+6824,Basic,Employed,75741,Married,109,0,7,Offer3,SUV
+6835,Basic,Unemployed,0,Married,105,0,2,Offer3,Sports Car
+6836,Extended,Employed,90035,Married,80,0,3,Offer2,Four-Door Car
+6861,Extended,Employed,39669,Married,98,0,2,Offer2,Two-Door Car
+6866,Basic,Employed,57963,Divorced,61,0,1,Offer2,Four-Door Car
+6873,Premium,Disabled,27906,Divorced,102,0,1,Offer2,Four-Door Car
+6884,Extended,Employed,83771,Married,133,0,1,Offer4,Sports Car
+6889,Basic,Employed,57052,Married,115,1,4,Offer3,SUV
+6892,Premium,Employed,60475,Married,107,0,1,Offer2,Four-Door Car
+6902,Extended,Employed,36094,Married,99,1,5,Offer2,Two-Door Car
+6904,Basic,Unemployed,0,Single,112,0,1,Offer1,Sports Car
+6908,Premium,Employed,36121,Married,118,0,4,Offer3,Four-Door Car
+6933,Extended,Unemployed,0,Single,97,0,1,Offer2,Four-Door Car
+6940,Basic,Unemployed,0,Single,62,0,6,Offer1,Two-Door Car
+6945,Premium,Unemployed,0,Single,113,0,2,Offer1,Four-Door Car
+6956,Extended,Unemployed,0,Single,129,0,7,Offer1,SUV
+6972,Basic,Employed,39854,Divorced,66,0,7,Offer2,Two-Door Car
+6974,Extended,Employed,32756,Married,93,0,2,Offer1,Two-Door Car
+6979,Extended,Employed,65727,Married,134,0,6,Offer1,SUV
+6984,Basic,Employed,27756,Married,93.18208347,0,8,Offer1,Two-Door Car
+6987,Basic,Unemployed,0,Single,69,0,1,Offer1,Four-Door Car
+6989,Basic,Employed,48107,Divorced,190,2,2,Offer1,Luxury SUV
+6996,Basic,Employed,58645,Married,107.5362801,0,2,Offer2,SUV
+7002,Basic,Employed,47829,Married,117,1,1,Offer3,SUV
+7003,Premium,Disabled,13128,Married,118,0,1,Offer4,Four-Door Car
+7007,Basic,Employed,72421,Married,65,0,1,Offer2,Four-Door Car
+7008,Basic,Employed,35396,Divorced,70,0,3,Offer4,Two-Door Car
+7018,Basic,Employed,23706,Married,63.64016493,1,2,Offer3,Four-Door Car
+7024,Extended,Unemployed,0,Single,85,0,3,Offer2,Four-Door Car
+7025,Extended,Unemployed,0,Married,85,0,1,Offer2,Two-Door Car
+7031,Extended,Unemployed,0,Married,80,0,2,Offer1,Four-Door Car
+7036,Basic,Unemployed,0,Divorced,73,0,4,Offer2,Four-Door Car
+7041,Basic,Employed,37937,Married,116,0,5,Offer2,SUV
+7051,Extended,Unemployed,0,Single,87,0,1,Offer1,Four-Door Car
+7058,Extended,Employed,72334,Married,129,3,6,Offer3,SUV
+7077,Extended,Employed,40361,Married,98,0,1,Offer2,Four-Door Car
+7080,Premium,Employed,74656,Divorced,111,0,2,Offer3,Four-Door Car
+7088,Extended,Employed,62409,Divorced,89,0,2,Offer2,Four-Door Car
+7098,Premium,Medical Leave,11854,Married,113,0,2,Offer1,Four-Door Car
+7117,Extended,Employed,91123,Divorced,138,3,8,Offer1,SUV
+7127,Premium,Employed,85942,Married,116,2,5,Offer3,Four-Door Car
+7134,Extended,Employed,52408,Married,114.083675,0,9,Offer1,Sports Car
+7136,Extended,Employed,45893,Married,97,0,2,Offer2,Two-Door Car
+7143,Basic,Employed,31093,Married,63,0,3,Offer2,Four-Door Car
+7149,Basic,Employed,24350,Married,73,3,1,Offer2,Four-Door Car
+7150,Basic,Employed,44843,Single,105,0,3,Offer1,SUV
+7153,Extended,Employed,39101,Married,99,0,1,Offer3,Four-Door Car
+7195,Basic,Employed,91603,Married,64,5,8,Offer2,Four-Door Car
+7196,Basic,Employed,33247,Married,71.50541879,0,1,Offer2,Four-Door Car
+7201,Basic,Unemployed,0,Married,70.36080542,3,1,Offer4,Two-Door Car
+7215,Basic,Employed,20252,Married,71,0,3,Offer2,Four-Door Car
+7220,Extended,Unemployed,0,Single,88,0,1,Offer3,Four-Door Car
+7229,Basic,Employed,97849,Married,62,0,2,Offer4,Four-Door Car
+7231,Extended,Employed,41479,Married,94,1,1,Offer2,Two-Door Car
+7247,Basic,Employed,34865,Married,69,0,1,Offer3,Four-Door Car
+7249,Extended,Employed,36168,Divorced,90,0,1,Offer3,Four-Door Car
+7256,Basic,Employed,33068,Married,61,1,6,Offer1,Four-Door Car
+7258,Premium,Employed,49564,Single,103.1607604,0,2,Offer1,Sports Car
+7263,Basic,Employed,69346,Married,63,1,2,Offer2,Two-Door Car
+7270,Extended,Employed,74835,Married,116.3882849,0,7,Offer1,SUV
+7284,Basic,Employed,55350,Married,67,0,9,Offer1,Four-Door Car
+7294,Extended,Employed,56225,Divorced,97,0,3,Offer1,Four-Door Car
+7296,Basic,Disabled,14909,Married,199,0,6,Offer1,Luxury Car
+7302,Basic,Employed,68946,Married,71,0,8,Offer1,Four-Door Car
+7307,Basic,Employed,56680,Single,100,2,3,Offer1,SUV
+7308,Basic,Employed,21359,Married,83.45499065,0,1,Offer4,Sports Car
+7310,Basic,Employed,86101,Married,102,0,1,Offer1,SUV
+7318,Basic,Employed,25998,Married,71,0,2,Offer2,Four-Door Car
+7323,Basic,Employed,64341,Single,61,0,1,Offer1,Four-Door Car
+7326,Basic,Employed,61894,Married,67,0,4,Offer3,Four-Door Car
+7332,Basic,Employed,80055,Married,100,0,1,Offer1,SUV
+7334,Extended,Employed,58345,Married,97.51392345,0,6,Offer1,Four-Door Car
+7335,Extended,Employed,76549,Married,132,0,3,Offer2,SUV
+7342,Basic,Employed,36212,Married,73,0,2,Offer1,Two-Door Car
+7356,Extended,Medical Leave,13037,Married,124,0,1,Offer2,SUV
+7381,Basic,Employed,36913,Married,62,0,9,Offer2,Four-Door Car
+7383,Basic,Unemployed,0,Single,74,1,3,Offer2,Four-Door Car
+7384,Basic,Medical Leave,12617,Divorced,108,0,8,Offer1,SUV
+7400,Premium,Employed,76157,Married,116,0,1,Offer2,Two-Door Car
+7411,Extended,Unemployed,0,Single,98,0,2,Offer1,Four-Door Car
+7414,Extended,Unemployed,0,Single,76.09287387,3,9,Offer1,Four-Door Car
+7417,Extended,Disabled,10517,Single,92,0,3,Offer1,Four-Door Car
+7424,Extended,Employed,78255,Single,95,0,2,Offer4,Four-Door Car
+7433,Basic,Employed,62464,Married,109,0,4,Offer2,Sports Car
+7435,Basic,Employed,76530,Divorced,119,4,2,Offer3,SUV
+7436,Basic,Unemployed,0,Single,70,0,1,Offer1,Four-Door Car
+7439,Extended,Employed,37751,Single,93,0,3,Offer1,Four-Door Car
+7444,Extended,Employed,20472,Single,139,0,1,Offer1,SUV
+7445,Basic,Employed,80540,Married,63,0,2,Offer4,Four-Door Car
+7454,Extended,Medical Leave,14465,Married,135,1,1,Offer1,Sports Car
+7458,Extended,Employed,47824,Married,129,3,1,Offer4,SUV
+7461,Basic,Employed,79189,Married,71,0,1,Offer2,Two-Door Car
+7469,Basic,Unemployed,0,Single,116,2,8,Offer1,Sports Car
+7475,Basic,Employed,41059,Married,64,0,1,Offer2,Four-Door Car
+7479,Basic,Employed,99761,Single,63,0,3,Offer2,Two-Door Car
+7487,Extended,Employed,51721,Married,139,0,1,Offer2,SUV
+7496,Basic,Unemployed,0,Single,114,0,1,Offer1,Sports Car
+7498,Extended,Unemployed,0,Single,78,3,6,Offer4,Four-Door Car
+7501,Basic,Employed,70524,Married,73,0,4,Offer2,Four-Door Car
+7511,Extended,Employed,73457,Married,133,1,2,Offer4,SUV
+7516,Basic,Employed,47122,Single,62,0,1,Offer2,Two-Door Car
+7524,Extended,Unemployed,0,Married,77,0,9,Offer1,Four-Door Car
+7527,Extended,Employed,41341,Single,99,0,1,Offer3,Four-Door Car
+7535,Basic,Employed,99874,Married,119,0,1,Offer2,Sports Car
+7537,Basic,Employed,76731,Married,64,0,1,Offer2,Four-Door Car
+7540,Extended,Employed,58414,Single,210,2,1,Offer2,Luxury SUV
+7544,Basic,Unemployed,0,Single,70,0,1,Offer1,Four-Door Car
+7549,Basic,Employed,69011,Single,70,0,2,Offer1,Four-Door Car
+7557,Extended,Unemployed,0,Married,85,0,2,Offer4,Two-Door Car
+7562,Basic,Employed,63471,Married,67,0,1,Offer2,Two-Door Car
+7570,Premium,Employed,24571,Married,109,0,2,Offer1,Four-Door Car
+7580,Basic,Unemployed,0,Married,73,0,7,Offer2,Two-Door Car
+7582,Extended,Medical Leave,17308,Married,82,0,1,Offer2,Four-Door Car
+7584,Extended,Unemployed,0,Divorced,90,0,7,Offer3,Four-Door Car
+7602,Basic,Disabled,20169,Married,112,1,3,Offer1,SUV
+7610,Extended,Unemployed,0,Married,111.9743022,0,7,Offer1,SUV
+7612,Basic,Employed,51199,Divorced,74,0,1,Offer1,Four-Door Car
+7617,Basic,Disabled,23879,Married,107,0,3,Offer1,SUV
+7619,Basic,Employed,57231,Married,65,0,1,Offer2,Four-Door Car
+7622,Extended,Employed,20656,Single,130,0,2,Offer1,SUV
+7628,Basic,Employed,32437,Married,71.05782973,0,1,Offer4,Two-Door Car
+7642,Extended,Employed,94903,Married,94,0,1,Offer2,Two-Door Car
+7645,Basic,Employed,82534,Single,118,0,1,Offer1,SUV
+7649,Extended,Employed,26436,Divorced,83,0,5,Offer2,Two-Door Car
+7651,Extended,Employed,88049,Single,92,0,8,Offer1,Two-Door Car
+7652,Basic,Unemployed,0,Single,62,0,1,Offer4,Two-Door Car
+7656,Basic,Unemployed,0,Single,106,0,1,Offer2,SUV
+7662,Basic,Employed,49467,Divorced,65,0,1,Offer1,Two-Door Car
+7663,Basic,Employed,50825,Married,102,0,3,Offer1,SUV
+7665,Basic,Employed,59597,Married,69,0,2,Offer1,Two-Door Car
+7677,Extended,Unemployed,0,Single,79,1,7,Offer1,Two-Door Car
+7681,Basic,Medical Leave,22319,Married,63,1,1,Offer1,Two-Door Car
+7686,Basic,Employed,37800,Divorced,112,0,1,Offer2,SUV
+7687,Basic,Employed,33190,Divorced,106,0,2,Offer1,SUV
+7692,Basic,Employed,43723,Married,66,3,7,Offer2,Four-Door Car
+7697,Basic,Employed,42600,Married,115,0,3,Offer2,Sports Car
+7717,Basic,Employed,93348,Married,65,0,8,Offer2,Four-Door Car
+7720,Basic,Unemployed,0,Single,67,1,2,Offer1,Four-Door Car
+7723,Basic,Employed,31723,Married,62,0,2,Offer2,Two-Door Car
+7729,Premium,Employed,84539,Married,119,0,4,Offer1,Four-Door Car
+7752,Extended,Employed,42677,Divorced,96,0,3,Offer1,Four-Door Car
+7759,Basic,Unemployed,0,Single,66,0,1,Offer2,Four-Door Car
+7760,Basic,Employed,22475,Married,64,1,1,Offer2,Four-Door Car
+7762,Basic,Employed,79440,Divorced,117,0,8,Offer4,SUV
+7763,Basic,Unemployed,0,Single,74,0,1,Offer1,Four-Door Car
+7766,Basic,Employed,48278,Married,74,0,4,Offer1,Two-Door Car
+7792,Basic,Unemployed,0,Married,68,0,2,Offer2,Four-Door Car
+7795,Basic,Employed,74624,Married,62,1,1,Offer2,Four-Door Car
+7800,Basic,Employed,37899,Married,187,0,5,Offer4,Luxury SUV
+7832,Basic,Unemployed,0,Married,72,0,5,Offer1,Two-Door Car
+7843,Basic,Employed,48608,Divorced,67,0,1,Offer2,Four-Door Car
+7847,Basic,Unemployed,0,Married,92.88140546,0,3,Offer3,SUV
+7851,Basic,Employed,63892,Married,66,0,2,Offer1,Four-Door Car
+7852,Extended,Unemployed,0,Married,83,0,1,Offer2,Four-Door Car
+7855,Basic,Employed,30525,Single,115,0,3,Offer2,Sports Car
+7861,Basic,Employed,67248,Divorced,102,0,2,Offer3,SUV
+7863,Basic,Unemployed,0,Single,117,0,3,Offer3,SUV
+7865,Basic,Unemployed,0,Married,69,0,1,Offer2,Four-Door Car
+7870,Extended,Employed,57483,Married,82,0,2,Offer1,Four-Door Car
+7879,Basic,Employed,40260,Married,73,0,2,Offer4,Four-Door Car
+7885,Basic,Employed,30004,Married,112,0,5,Offer3,SUV
+7890,Basic,Employed,20269,Married,76.19322789,0,3,Offer1,Two-Door Car
+7892,Premium,Employed,74001,Married,108,3,7,Offer1,Two-Door Car
+7894,Basic,Unemployed,0,Single,110,0,1,Offer1,SUV
+7896,Basic,Disabled,25612,Married,61,0,2,Offer4,Two-Door Car
+7910,Basic,Employed,57016,Married,119,0,3,Offer2,SUV
+7916,Basic,Employed,25385,Married,65,0,1,Offer4,Four-Door Car
+7920,Basic,Employed,70047,Married,71,0,1,Offer2,Two-Door Car
+7926,Extended,Employed,33901,Married,84,1,2,Offer3,Four-Door Car
+7928,Basic,Employed,39429,Divorced,62,0,9,Offer1,Four-Door Car
+7949,Basic,Employed,88704,Married,69,0,1,Offer2,Two-Door Car
+7953,Basic,Employed,44051,Married,67,0,3,Offer2,Four-Door Car
+7954,Basic,Employed,23617,Married,189,0,1,Offer3,Luxury Car
+7967,Extended,Employed,23656,Single,80,3,1,Offer2,Four-Door Car
+7970,Extended,Employed,67780,Divorced,92,0,3,Offer3,Four-Door Car
+7980,Extended,Employed,74487,Divorced,88,0,3,Offer1,Four-Door Car
+7983,Extended,Unemployed,0,Married,131,1,2,Offer3,Sports Car
+8000,Basic,Employed,93818,Married,66,0,6,Offer1,Four-Door Car
+8008,Extended,Employed,43922,Single,83,0,2,Offer1,Four-Door Car
+8025,Basic,Employed,36639,Divorced,62,0,2,Offer1,Four-Door Car
+8035,Basic,Employed,77077,Single,112,0,7,Offer2,SUV
+8037,Basic,Employed,41104,Married,114.8863975,0,2,Offer4,SUV
+8039,Basic,Employed,72026,Married,191,0,6,Offer4,Luxury SUV
+8054,Basic,Employed,61687,Single,67,0,3,Offer4,Two-Door Car
+8060,Extended,Employed,30817,Divorced,88,0,1,Offer2,Four-Door Car
+8061,Basic,Disabled,12180,Single,113,0,3,Offer1,SUV
+8065,Extended,Employed,58557,Married,88,0,1,Offer1,Four-Door Car
+8067,Basic,Unemployed,0,Married,68,3,1,Offer1,Two-Door Car
+8069,Basic,Employed,22881,Single,65,0,1,Offer2,Four-Door Car
+8079,Extended,Employed,92681,Divorced,91,3,8,Offer3,Four-Door Car
+8093,Basic,Employed,74916,Single,62,4,2,Offer1,Two-Door Car
+8107,Basic,Employed,53988,Married,64,0,1,Offer4,Two-Door Car
+8114,Basic,Employed,72859,Divorced,61,0,9,Offer3,Two-Door Car
+8117,Premium,Employed,67787,Married,194,0,1,Offer4,SUV
+8123,Basic,Unemployed,0,Single,66,0,2,Offer1,Four-Door Car
+8126,Premium,Unemployed,0,Single,143,0,1,Offer1,SUV
+8133,Extended,Employed,72297,Married,87,2,2,Offer1,Four-Door Car
+8138,Basic,Employed,97361,Single,73,0,2,Offer1,Four-Door Car
+8141,Basic,Employed,40082,Divorced,69,0,2,Offer4,Four-Door Car
+8143,Extended,Employed,49078,Single,97,0,2,Offer2,Four-Door Car
+8150,Extended,Employed,52507,Married,123,0,1,Offer1,SUV
+8153,Extended,Employed,91071,Married,94,2,3,Offer2,Four-Door Car
+8160,Extended,Employed,88858,Married,93,0,2,Offer2,Four-Door Car
+8163,Basic,Employed,21881,Married,69,0,5,Offer3,Four-Door Car
+8176,Extended,Employed,97576,Married,83,1,1,Offer4,Two-Door Car
+8180,Basic,Unemployed,0,Single,73,0,3,Offer1,Two-Door Car
+8183,Extended,Employed,60021,Married,99,0,1,Offer2,Four-Door Car
+8185,Basic,Employed,47593,Single,72,0,2,Offer1,Four-Door Car
+8187,Extended,Employed,30431,Married,122,0,3,Offer3,SUV
+8190,Basic,Medical Leave,19834,Divorced,64,4,8,Offer1,Four-Door Car
+8192,Extended,Unemployed,0,Single,104.6227596,0,1,Offer4,Two-Door Car
+8201,Extended,Employed,94903,Married,94.11552106,0,1,Offer2,Two-Door Car
+8202,Basic,Employed,42862,Married,65,0,2,Offer3,Four-Door Car
+8204,Basic,Employed,31157,Married,100,0,2,Offer2,SUV
+8214,Basic,Unemployed,0,Married,102,0,1,Offer2,SUV
+8216,Basic,Employed,88082,Married,61,1,2,Offer4,Two-Door Car
+8222,Basic,Employed,63597,Married,114,2,1,Offer2,SUV
+8232,Basic,Unemployed,0,Single,65,0,3,Offer1,Four-Door Car
+8239,Basic,Employed,31409,Married,100,0,1,Offer4,SUV
+8240,Basic,Employed,38072,Married,113,1,3,Offer1,SUV
+8243,Basic,Employed,95399,Married,68,1,1,Offer4,Two-Door Car
+8245,Basic,Employed,45856,Divorced,67,0,3,Offer1,Two-Door Car
+8251,Basic,Employed,78387,Married,74,0,6,Offer2,Four-Door Car
+8269,Basic,Employed,23033,Married,62,0,1,Offer3,Two-Door Car
+8273,Basic,Employed,24914,Married,66,0,1,Offer2,Four-Door Car
+8274,Premium,Employed,25419,Married,101,0,2,Offer2,Four-Door Car
+8277,Extended,Employed,55805,Married,99,0,2,Offer1,Four-Door Car
+8278,Basic,Employed,40740,Single,198,0,2,Offer1,Luxury SUV
+8286,Extended,Employed,25075,Single,86,0,3,Offer4,Four-Door Car
+8297,Extended,Employed,21685,Single,127,0,1,Offer2,Sports Car
+8298,Extended,Employed,32818,Married,93,0,8,Offer2,Four-Door Car
+8303,Extended,Employed,27835,Divorced,81,0,3,Offer1,Two-Door Car
+8308,Extended,Unemployed,0,Divorced,94.71423732,0,5,Offer1,Two-Door Car
+8318,Basic,Employed,88944,Single,72,0,1,Offer2,Four-Door Car
+8321,Basic,Employed,58443,Married,65,0,6,Offer3,Four-Door Car
+8324,Basic,Employed,30735,Married,63,0,7,Offer1,Two-Door Car
+8332,Extended,Unemployed,0,Married,134,0,6,Offer3,SUV
+8334,Extended,Employed,30604,Divorced,131,2,3,Offer2,SUV
+8339,Basic,Employed,50446,Married,74,4,2,Offer4,Four-Door Car
+8342,Extended,Unemployed,0,Single,89,0,1,Offer3,Four-Door Car
+8344,Basic,Employed,84731,Married,110,1,7,Offer1,SUV
+8348,Basic,Unemployed,0,Single,70,0,1,Offer4,Four-Door Car
+8356,Extended,Employed,56768,Divorced,92,0,1,Offer1,Two-Door Car
+8361,Basic,Unemployed,0,Single,65,0,3,Offer1,Two-Door Car
+8374,Extended,Employed,62873,Divorced,81,0,1,Offer2,Four-Door Car
+8375,Basic,Unemployed,0,Single,64,0,1,Offer2,Four-Door Car
+8383,Basic,Employed,84650,Married,185,3,2,Offer1,Luxury Car
+8392,Basic,Unemployed,0,Married,102,0,2,Offer1,SUV
+8394,Basic,Medical Leave,25370,Married,102,0,2,Offer1,Sports Car
+8402,Basic,Employed,63860,Married,62,0,1,Offer2,Four-Door Car
+8405,Extended,Employed,54339,Married,86,0,1,Offer4,Four-Door Car
+8407,Extended,Employed,55645,Divorced,129,0,1,Offer1,SUV
+8422,Basic,Unemployed,0,Single,61,1,7,Offer1,Four-Door Car
+8428,Basic,Employed,60087,Single,74,0,3,Offer1,Four-Door Car
+8429,Extended,Employed,48938,Divorced,121,0,1,Offer1,SUV
+8433,Basic,Employed,28519,Married,61,0,1,Offer2,Four-Door Car
+8434,Extended,Employed,58300,Married,94,0,1,Offer1,Four-Door Car
+8444,Basic,Unemployed,0,Divorced,111,0,2,Offer1,Sports Car
+8446,Basic,Medical Leave,29735,Single,69,0,1,Offer1,Four-Door Car
+8450,Extended,Unemployed,0,Single,123,0,6,Offer1,SUV
+8451,Extended,Unemployed,0,Married,95,0,1,Offer4,Four-Door Car
+8452,Basic,Employed,69693,Married,112,1,2,Offer1,Sports Car
+8456,Extended,Employed,75716,Single,247,0,1,Offer1,Luxury Car
+8458,Basic,Employed,24666,Married,101,0,3,Offer3,Sports Car
+8465,Premium,Employed,27289,Married,158,2,1,Offer2,Sports Car
+8466,Extended,Employed,78310,Married,76,0,1,Offer3,Four-Door Car
+8470,Extended,Unemployed,0,Married,79,1,2,Offer1,Two-Door Car
+8476,Premium,Employed,55687,Divorced,276,0,1,Offer1,Luxury SUV
+8477,Extended,Employed,24723,Married,129,0,5,Offer1,Sports Car
+8488,Extended,Employed,72916,Single,80,0,1,Offer2,Two-Door Car
+8489,Basic,Unemployed,0,Single,67,2,2,Offer3,Two-Door Car
+8494,Basic,Employed,62900,Married,62,0,2,Offer2,Two-Door Car
+8503,Basic,Medical Leave,22981,Single,69,0,1,Offer2,Four-Door Car
+8521,Extended,Employed,33806,Divorced,89,0,2,Offer2,Four-Door Car
+8524,Extended,Employed,79980,Married,91,0,3,Offer2,Two-Door Car
+8530,Basic,Employed,75648,Married,108,0,1,Offer2,SUV
+8541,Basic,Employed,40864,Married,109,1,1,Offer1,SUV
+8548,Basic,Employed,28204,Married,73,0,1,Offer2,Four-Door Car
+8556,Basic,Disabled,16101,Divorced,74,0,3,Offer3,Four-Door Car
+8560,Basic,Employed,57882,Single,115,0,2,Offer1,SUV
+8573,Basic,Employed,60060,Married,67,0,1,Offer4,Four-Door Car
+8576,Extended,Employed,61160,Single,96,0,3,Offer1,Two-Door Car
+8580,Basic,Unemployed,0,Single,61,0,2,Offer3,Two-Door Car
+8581,Extended,Employed,61726,Married,96,2,4,Offer2,Two-Door Car
+8595,Premium,Employed,66839,Single,154,0,1,Offer2,Sports Car
+8597,Extended,Employed,60433,Married,77,0,2,Offer2,Four-Door Car
+8610,Basic,Employed,40032,Married,118,2,7,Offer1,SUV
+8618,Basic,Employed,65176,Married,62,0,1,Offer2,Four-Door Car
+8619,Premium,Unemployed,0,Single,110,0,5,Offer1,Four-Door Car
+8621,Extended,Employed,37995,Married,139,0,1,Offer1,SUV
+8626,Extended,Unemployed,0,Single,89,1,4,Offer1,Two-Door Car
+8630,Basic,Unemployed,0,Married,65,0,6,Offer3,Two-Door Car
+8648,Basic,Employed,45404,Married,70,2,6,Offer4,Two-Door Car
+8653,Extended,Employed,24019,Married,79,0,1,Offer3,Four-Door Car
+8665,Extended,Employed,36794,Single,99,0,1,Offer1,Four-Door Car
+8671,Basic,Employed,66156,Married,72,0,6,Offer2,Four-Door Car
+8695,Extended,Medical Leave,13542,Married,94,0,8,Offer1,Four-Door Car
+8710,Basic,Employed,79751,Married,63,0,1,Offer3,Two-Door Car
+8729,Basic,Employed,84895,Married,67,0,1,Offer2,Two-Door Car
+8733,Extended,Employed,31447,Married,121,0,1,Offer1,SUV
+8734,Basic,Unemployed,0,Married,68,0,2,Offer1,Two-Door Car
+8735,Basic,Employed,25275,Single,61,0,2,Offer3,Four-Door Car
+8737,Basic,Employed,80807,Married,109,0,2,Offer2,SUV
+8739,Basic,Employed,86599,Married,73,0,1,Offer2,Four-Door Car
+8757,Basic,Unemployed,0,Divorced,72,0,4,Offer2,Four-Door Car
+8759,Basic,Unemployed,0,Married,72,0,7,Offer4,Four-Door Car
+8763,Extended,Unemployed,0,Married,78,0,5,Offer3,Four-Door Car
+8770,Basic,Employed,28726,Divorced,65,0,3,Offer1,Four-Door Car
+8779,Premium,Employed,20705,Divorced,171,1,3,Offer1,SUV
+8781,Basic,Employed,60500,Married,110,0,2,Offer3,Sports Car
+8785,Basic,Employed,34628,Married,71,0,1,Offer2,Four-Door Car
+8786,Premium,Disabled,23506,Single,113,0,9,Offer1,Four-Door Car
+8801,Basic,Disabled,20123,Married,63,0,3,Offer2,Four-Door Car
+8802,Extended,Employed,88362,Single,78,0,1,Offer2,Two-Door Car
+8810,Basic,Unemployed,0,Single,116,3,1,Offer2,SUV
+8811,Premium,Employed,60475,Married,107,0,1,Offer2,Four-Door Car
+8812,Premium,Unemployed,0,Single,119,0,2,Offer3,Four-Door Car
+8817,Basic,Unemployed,0,Single,107,0,1,Offer1,SUV
+8819,Basic,Employed,41077,Married,71,0,1,Offer1,Two-Door Car
+8829,Premium,Employed,45484,Single,111,0,8,Offer1,Four-Door Car
+8831,Basic,Employed,79453,Single,115,0,1,Offer2,SUV
+8842,Basic,Employed,88753,Single,181,0,3,Offer1,Luxury SUV
+8843,Extended,Unemployed,0,Single,87,0,9,Offer1,Four-Door Car
+8856,Basic,Employed,53691,Divorced,67,0,2,Offer1,Four-Door Car
+8858,Basic,Employed,60596,Married,71,4,3,Offer1,Four-Door Car
+8868,Basic,Employed,31354,Married,109,0,9,Offer3,SUV
+8883,Basic,Employed,43386,Married,68,0,1,Offer3,Two-Door Car
+8887,Extended,Employed,85058,Married,137,0,2,Offer1,SUV
+8890,Basic,Unemployed,0,Single,109,0,2,Offer1,Sports Car
+8892,Extended,Unemployed,0,Divorced,99,0,1,Offer1,Four-Door Car
+8893,Extended,Employed,86036,Divorced,90,3,2,Offer1,Four-Door Car
+8898,Basic,Employed,20053,Married,62,1,2,Offer3,Four-Door Car
+8906,Premium,Employed,76157,Married,116,0,1,Offer2,Two-Door Car
+8917,Basic,Employed,59183,Married,113,0,5,Offer3,SUV
+8922,Basic,Employed,52774,Married,66,4,2,Offer2,Two-Door Car
+8923,Extended,Medical Leave,26526,Married,99,0,3,Offer1,Four-Door Car
+8926,Extended,Employed,57693,Divorced,76,0,3,Offer2,Four-Door Car
+8936,Basic,Employed,79065,Married,69,0,1,Offer2,Four-Door Car
+8954,Basic,Disabled,14533,Single,63,0,2,Offer1,Four-Door Car
+8957,Basic,Unemployed,0,Single,73,0,1,Offer4,Four-Door Car
+8961,Extended,Unemployed,0,Divorced,87,3,1,Offer2,Four-Door Car
+8975,Basic,Employed,60909,Married,112,0,5,Offer3,SUV
+8989,Premium,Unemployed,0,Divorced,104,0,2,Offer3,Four-Door Car
+9001,Extended,Employed,71656,Married,137,0,8,Offer3,SUV
+9009,Premium,Employed,85165,Single,101,0,2,Offer1,Four-Door Car
+9016,Basic,Employed,44428,Single,104,0,2,Offer1,SUV
+9032,Basic,Unemployed,0,Married,102,0,2,Offer1,SUV
+9035,Premium,Employed,65337,Married,173,1,1,Offer1,SUV
+9047,Basic,Employed,62912,Married,69,0,2,Offer2,Two-Door Car
+9048,Extended,Unemployed,0,Single,125,0,1,Offer1,SUV
+9058,Basic,Employed,81197,Married,109,0,2,Offer2,Sports Car
+9064,Extended,Employed,68745,Married,80,0,1,Offer4,Four-Door Car
+9071,Basic,Employed,53333,Married,66,0,1,Offer2,Two-Door Car
+9074,Basic,Employed,62088,Married,64,2,4,Offer1,Two-Door Car
+9080,Extended,Unemployed,0,Single,122,0,9,Offer1,Sports Car
+9083,Basic,Unemployed,0,Single,106,0,8,Offer2,Sports Car
+9092,Basic,Employed,76358,Married,66,0,2,Offer3,Four-Door Car
+9097,Extended,Employed,46648,Divorced,81,0,7,Offer4,Four-Door Car
+9108,Extended,Employed,42406,Married,77,0,1,Offer4,Four-Door Car
+9115,Basic,Employed,74460,Married,69,0,2,Offer4,Two-Door Car
+9122,Basic,Employed,42247,Divorced,74,0,1,Offer3,Two-Door Car
+9126,Basic,Employed,56587,Divorced,65,1,6,Offer1,Four-Door Car
+9141,Extended,Unemployed,0,Married,92,0,1,Offer1,Two-Door Car
+9142,Extended,Employed,41212,Married,95,0,1,Offer4,Four-Door Car
+9147,Extended,Employed,21687,Married,88,0,8,Offer2,Four-Door Car
+9162,Basic,Medical Leave,22571,Single,63,0,9,Offer2,Four-Door Car
+9184,Basic,Employed,72032,Married,72,0,4,Offer2,Four-Door Car
+9185,Basic,Employed,66081,Single,64,1,1,Offer1,Four-Door Car
+9193,Extended,Employed,51817,Divorced,129,4,2,Offer1,SUV
+9203,Basic,Employed,64220,Married,107,0,7,Offer1,SUV
+9213,Basic,Unemployed,0,Single,64,0,5,Offer1,Two-Door Car
+9216,Basic,Employed,43318,Married,66,0,5,Offer2,Four-Door Car
+9225,Basic,Employed,70793,Married,69,0,1,Offer2,Four-Door Car
+9239,Basic,Employed,29133,Married,104,0,1,Offer2,Sports Car
+9247,Extended,Employed,62873,Divorced,81,0,1,Offer2,Four-Door Car
+9252,Extended,Employed,98623,Married,211,0,9,Offer4,Luxury SUV
+9275,Basic,Employed,77469,Divorced,109,1,2,Offer1,SUV
+9277,Basic,Employed,30535,Married,66,0,2,Offer2,Four-Door Car
+9284,Basic,Employed,67276,Married,61,0,2,Offer2,Two-Door Car
+9285,Extended,Unemployed,0,Married,84,1,4,Offer1,Four-Door Car
+9287,Extended,Employed,41098,Married,96,0,2,Offer1,Two-Door Car
+9297,Premium,Employed,46587,Divorced,119,2,2,Offer1,Four-Door Car
+9305,Extended,Employed,65167,Married,131,0,1,Offer2,SUV
+9307,Extended,Unemployed,0,Married,84,2,4,Offer1,Four-Door Car
+9308,Extended,Employed,38820,Married,99,0,1,Offer2,Four-Door Car
+9326,Basic,Unemployed,0,Single,62,0,8,Offer2,Four-Door Car
+9331,Basic,Medical Leave,12964,Single,65,0,4,Offer1,Two-Door Car
+9332,Basic,Employed,35095,Divorced,73,0,2,Offer2,Two-Door Car
+9336,Premium,Employed,30845,Married,116,1,2,Offer1,Four-Door Car
+9340,Basic,Employed,69991,Married,65,0,7,Offer2,Four-Door Car
+9374,Basic,Employed,24626,Married,108,0,2,Offer1,SUV
+9379,Basic,Unemployed,0,Married,66,2,1,Offer2,Four-Door Car
+9381,Basic,Employed,85607,Single,66,0,3,Offer2,Four-Door Car
+9383,Basic,Employed,85950,Divorced,69,0,1,Offer4,Four-Door Car
+9386,Basic,Unemployed,0,Single,69,2,2,Offer1,Four-Door Car
+9397,Basic,Unemployed,0,Married,70,0,7,Offer1,Four-Door Car
+9413,Basic,Unemployed,0,Single,190,0,7,Offer3,Luxury SUV
+9415,Basic,Employed,24224,Divorced,71,0,1,Offer2,Two-Door Car
+9429,Extended,Employed,63483,Married,83,0,3,Offer2,Four-Door Car
+9440,Basic,Employed,38113,Married,73,0,2,Offer3,Four-Door Car
+9442,Basic,Employed,46988,Single,195,0,1,Offer1,Luxury SUV
+9446,Basic,Employed,59130,Married,117,0,2,Offer4,Sports Car
+9451,Basic,Employed,31572,Married,70,3,3,Offer2,Four-Door Car
+9452,Basic,Employed,51791,Married,181,1,1,Offer4,Luxury Car
+9461,Basic,Employed,40903,Married,61,0,1,Offer2,Four-Door Car
+9464,Extended,Employed,67249,Divorced,86,0,1,Offer3,Four-Door Car
+9472,Basic,Employed,76839,Married,68,0,3,Offer1,Four-Door Car
+9477,Extended,Employed,75132,Married,93,2,1,Offer4,Four-Door Car
+9479,Basic,Disabled,24982,Married,109,4,7,Offer1,SUV
+9484,Basic,Employed,24083,Divorced,63,1,2,Offer1,Four-Door Car
+9489,Basic,Unemployed,0,Divorced,102,0,2,Offer1,SUV
+9492,Premium,Employed,25561,Married,163,0,2,Offer2,SUV
+9499,Extended,Employed,29484,Married,93,0,2,Offer2,Two-Door Car
+9509,Basic,Medical Leave,17101,Single,113,0,2,Offer1,SUV
+9511,Basic,Employed,89025,Married,64,0,2,Offer3,Four-Door Car
+9515,Extended,Employed,52228,Married,220,1,8,Offer3,Luxury SUV
+9527,Extended,Employed,53214,Married,91,0,3,Offer4,Four-Door Car
+9540,Premium,Unemployed,0,Married,298,0,1,Offer1,Luxury Car
+9542,Basic,Employed,61246,Married,110,0,3,Offer2,Sports Car
+9545,Extended,Unemployed,0,Single,126,0,2,Offer1,SUV
+9554,Basic,Unemployed,0,Married,67,0,2,Offer3,Two-Door Car
+9567,Extended,Employed,31930,Married,83,0,2,Offer1,Four-Door Car
+9573,Basic,Unemployed,0,Single,68,1,7,Offer2,Four-Door Car
+9577,Premium,Unemployed,0,Single,112,1,3,Offer2,Two-Door Car
+9578,Basic,Unemployed,0,Married,69.2447166,1,3,Offer1,Four-Door Car
+9582,Basic,Disabled,21829,Divorced,111,0,3,Offer2,Sports Car
+9585,Basic,Employed,64592,Married,64,0,1,Offer2,Four-Door Car
+9586,Basic,Employed,96689,Married,103,0,5,Offer1,Sports Car
+9604,Basic,Unemployed,0,Single,69.0193543,0,2,Offer1,Four-Door Car
+9625,Extended,Employed,76594,Married,122,1,1,Offer1,SUV
+9651,Extended,Employed,66429,Married,136,0,1,Offer2,Sports Car
+9656,Extended,Employed,76114,Married,88,0,1,Offer2,Four-Door Car
+9664,Basic,Employed,70725,Divorced,70,0,2,Offer2,Four-Door Car
+9665,Basic,Employed,54194,Married,119,1,1,Offer1,SUV
+9666,Basic,Employed,62464,Married,109,0,4,Offer2,Sports Car
+9680,Basic,Employed,80846,Single,65,0,9,Offer2,Four-Door Car
+9683,Basic,Unemployed,0,Single,67,0,5,Offer1,Four-Door Car
+9688,Basic,Employed,73769,Divorced,61,0,6,Offer1,Four-Door Car
+9691,Extended,Unemployed,0,Married,96,1,3,Offer1,Four-Door Car
+9696,Extended,Employed,22361,Married,95,0,2,Offer4,Four-Door Car
+9701,Extended,Employed,70061,Married,99,0,3,Offer3,Four-Door Car
+9706,Basic,Unemployed,0,Single,73,0,2,Offer1,Four-Door Car
+9709,Extended,Employed,65742,Married,79,0,1,Offer2,Four-Door Car
+9712,Basic,Employed,61417,Married,65,0,7,Offer4,Two-Door Car
+9714,Extended,Employed,96988,Single,77,0,3,Offer1,Two-Door Car
+9717,Extended,Unemployed,0,Single,81,0,1,Offer1,Four-Door Car
+9731,Extended,Unemployed,4287.779383,Married,135,0,9,Offer1,SUV
+9738,Basic,Employed,75648,Married,108,0,1,Offer2,SUV
+9748,Basic,Employed,29465,Married,63,0,1,Offer2,Four-Door Car
+9749,Basic,Unemployed,0,Single,65,0,2,Offer4,Four-Door Car
+9751,Basic,Employed,61029,Single,72,0,1,Offer2,Two-Door Car
+9755,Basic,Employed,20852,Married,73,0,1,Offer3,Two-Door Car
+9758,Extended,Unemployed,0,Married,83,0,1,Offer1,Two-Door Car
+9795,Extended,Unemployed,0,Single,95,2,1,Offer1,Two-Door Car
+9806,Extended,Employed,72460,Married,85,0,1,Offer2,Four-Door Car
+9809,Premium,Employed,60334,Married,106,0,1,Offer2,Four-Door Car
+9815,Premium,Employed,75007,Divorced,101,0,1,Offer2,Four-Door Car
+9824,Basic,Employed,79271,Married,62,4,1,Offer2,Four-Door Car
+9827,Premium,Employed,59414,Married,140,0,2,Offer1,SUV
+9831,Basic,Employed,37520,Married,74,0,2,Offer1,Two-Door Car
+9833,Basic,Unemployed,0,Married,65,0,1,Offer1,Two-Door Car
+9836,Extended,Employed,26262,Married,97,0,1,Offer4,Four-Door Car
+9862,Basic,Employed,88081,Married,64,0,5,Offer1,Four-Door Car
+9868,Extended,Unemployed,0,Single,92,0,1,Offer2,Two-Door Car
+9869,Extended,Employed,68980,Divorced,98,0,7,Offer1,Four-Door Car
+9873,Basic,Employed,30968,Married,74,1,8,Offer1,Two-Door Car
+9875,Extended,Employed,36710,Single,94,0,1,Offer2,Four-Door Car
+9877,Extended,Unemployed,0,Single,99,0,2,Offer1,Two-Door Car
+9887,Basic,Employed,50450,Married,63,0,1,Offer1,Four-Door Car
+9893,Basic,Disabled,27538,Divorced,63,4,3,Offer1,Four-Door Car
+9896,Extended,Employed,26486,Single,128,1,2,Offer1,SUV
+9898,Basic,Employed,60101,Married,66,0,3,Offer2,Two-Door Car
+9902,Extended,Employed,22426,Single,76,1,1,Offer3,Four-Door Car
+9903,Basic,Employed,86640,Married,67,0,5,Offer2,Four-Door Car
+9904,Extended,Unemployed,0,Single,126,0,2,Offer1,SUV
+9913,Extended,Unemployed,0,Single,83.80555174,0,1,Offer3,Four-Door Car
+9919,Basic,Disabled,19724,Married,72,0,4,Offer1,Four-Door Car
+9920,Basic,Unemployed,0,Married,119,0,3,Offer2,Sports Car
+9926,Basic,Disabled,26713,Divorced,71,0,1,Offer1,Four-Door Car
+9927,Basic,Employed,89771,Married,114,0,2,Offer1,SUV
+9928,Basic,Employed,31213,Married,65,0,1,Offer2,Four-Door Car
+9931,Basic,Unemployed,0,Married,61,0,2,Offer3,Four-Door Car
+9943,Basic,Employed,55393,Married,74,1,3,Offer1,Four-Door Car
+9961,Basic,Employed,62464,Married,109,0,4,Offer2,Sports Car
+9965,Basic,Employed,72648,Married,61,0,5,Offer3,Four-Door Car
+9970,Basic,Employed,77167,Divorced,66,0,3,Offer2,Four-Door Car
+9981,Basic,Employed,89672,Married,72,0,1,Offer2,Four-Door Car
+9989,Basic,Employed,25575,Married,117,0,2,Offer3,SUV
+10019,Basic,Employed,71449,Divorced,102,0,2,Offer4,SUV
+10025,Basic,Employed,26409,Married,71,0,5,Offer2,Four-Door Car
+10035,Extended,Unemployed,0,Divorced,87,3,1,Offer2,Four-Door Car
+10055,Basic,Unemployed,0,Married,62,0,1,Offer2,Four-Door Car
+10056,Extended,Employed,51337,Single,88,0,1,Offer3,Four-Door Car
+10061,Extended,Unemployed,0,Single,77,0,1,Offer1,Four-Door Car
+10067,Basic,Unemployed,0,Single,64,0,1,Offer4,Four-Door Car
+10070,Extended,Employed,31841,Married,78,0,1,Offer2,Four-Door Car
+10074,Extended,Employed,94550,Single,90,0,7,Offer2,Four-Door Car
+10079,Extended,Employed,80587,Married,78,0,6,Offer2,Four-Door Car
+10080,Basic,Unemployed,0,Married,194,0,5,Offer1,Luxury SUV
+10082,Basic,Medical Leave,25550,Married,61,0,1,Offer4,Four-Door Car
+10083,Extended,Employed,84417,Divorced,98,0,7,Offer4,Two-Door Car
+10086,Basic,Employed,67778,Married,64,1,1,Offer2,Four-Door Car
+10090,Basic,Employed,56342,Single,69,0,1,Offer2,Four-Door Car
+10092,Basic,Employed,81763,Married,72,1,1,Offer2,Two-Door Car
+10094,Basic,Employed,59763,Married,73,0,2,Offer4,Two-Door Car
+10097,Extended,Employed,96832,Married,85,0,3,Offer1,Two-Door Car
+10101,Extended,Unemployed,0,Single,83,0,4,Offer1,Four-Door Car
+10111,Extended,Employed,37940,Married,129,0,1,Offer1,SUV
+10118,Basic,Employed,35625,Married,65,1,3,Offer2,Four-Door Car
+10120,Extended,Disabled,12261,Divorced,125,0,1,Offer1,SUV
+10132,Extended,Employed,60735,Married,135,0,2,Offer3,SUV
+10136,Extended,Unemployed,0,Single,135,0,1,Offer4,Sports Car
+10138,Basic,Disabled,22775,Divorced,184,0,3,Offer1,Luxury Car
+10147,Basic,Employed,43054,Married,68,0,4,Offer3,Four-Door Car
+10159,Basic,Employed,64543,Married,65,0,2,Offer2,Four-Door Car
+10160,Extended,Employed,42602,Married,85,3,3,Offer2,Two-Door Car
+10161,Basic,Employed,72202,Married,63,0,1,Offer2,Two-Door Car
+10162,Extended,Employed,57693,Divorced,76,0,3,Offer2,Four-Door Car
+10173,Basic,Unemployed,0,Single,67.05843864,0,2,Offer1,Four-Door Car
+10178,Basic,Unemployed,0,Divorced,73,0,2,Offer1,Two-Door Car
+10179,Premium,Disabled,12181,Divorced,108,0,4,Offer2,Four-Door Car
+10182,Extended,Employed,52082,Married,79,0,1,Offer4,Four-Door Car
+10183,Extended,Employed,38096,Divorced,99,0,1,Offer1,Two-Door Car
+10184,Basic,Employed,74115,Married,63,0,2,Offer2,Four-Door Car
+10187,Extended,Employed,36108,Divorced,128,2,9,Offer3,SUV
+10189,Extended,Employed,74900,Married,208,0,6,Offer3,Luxury SUV
+10197,Extended,Unemployed,3058.670684,Married,95,0,9,Offer1,Two-Door Car
+10200,Basic,Medical Leave,26307,Married,73,0,2,Offer4,Four-Door Car
+10201,Basic,Unemployed,0,Married,80.00426526,0,2,Offer3,Four-Door Car
+10202,Basic,Employed,91915,Divorced,186,0,1,Offer1,Luxury Car
+10207,Extended,Employed,96337,Married,127,0,3,Offer3,SUV
+10213,Basic,Employed,60180,Married,183,0,2,Offer4,Luxury Car
+10216,Basic,Employed,88997,Divorced,72,0,3,Offer2,Four-Door Car
+10219,Basic,Employed,75449,Divorced,61,0,1,Offer3,Two-Door Car
+10221,Basic,Unemployed,0,Married,71,0,1,Offer2,Four-Door Car
+10225,Basic,Employed,30061,Single,104,0,1,Offer1,Sports Car
+10226,Premium,Employed,58544,Married,114,0,2,Offer1,Four-Door Car
+10244,Basic,Employed,57248,Married,74,0,1,Offer2,Four-Door Car
+10251,Extended,Unemployed,0,Single,135,4,2,Offer2,SUV
+10261,Extended,Employed,58414,Single,210,2,1,Offer2,Luxury SUV
+10264,Basic,Disabled,17257,Single,70,0,2,Offer1,Four-Door Car
+10267,Extended,Employed,68229,Married,96,0,5,Offer4,Four-Door Car
+10269,Basic,Employed,74935,Married,112,0,1,Offer2,SUV
+10275,Extended,Employed,48744,Single,86,0,1,Offer1,Two-Door Car
+10297,Basic,Employed,67798,Divorced,69,0,9,Offer1,Four-Door Car
+10299,Basic,Employed,91475,Divorced,64,0,3,Offer1,Four-Door Car
+10302,Extended,Employed,52162,Divorced,99,0,4,Offer1,Two-Door Car
+10320,Basic,Employed,74755,Divorced,195,0,1,Offer1,Luxury Car
+10334,Extended,Employed,57709,Married,125,0,1,Offer2,SUV
+10335,Premium,Unemployed,0,Married,253,5,7,Offer3,Luxury Car
+10338,Basic,Employed,22971,Married,101,0,2,Offer2,SUV
+10347,Extended,Employed,28314,Single,121,0,1,Offer1,SUV
+10350,Extended,Unemployed,0,Single,68.70861485,1,1,Offer1,Four-Door Car
+10358,Basic,Unemployed,0,Divorced,112,0,3,Offer1,Sports Car
+10359,Basic,Employed,79251,Married,67,1,1,Offer2,Four-Door Car
+10361,Extended,Employed,97266,Married,79,0,1,Offer2,Two-Door Car
+10364,Basic,Employed,48207,Married,63,2,8,Offer3,Four-Door Car
+10366,Basic,Unemployed,0,Married,69,0,2,Offer4,Four-Door Car
+10376,Basic,Employed,63860,Married,62,0,1,Offer2,Four-Door Car
+10388,Basic,Employed,72633,Married,67,0,8,Offer1,Four-Door Car
+10403,Premium,Employed,28013,Married,266,0,2,Offer2,Luxury Car
+10404,Basic,Unemployed,0,Single,73,0,2,Offer1,Two-Door Car
+10405,Extended,Employed,26432,Single,88,3,2,Offer1,Four-Door Car
+10421,Basic,Employed,87403,Divorced,68,0,2,Offer1,Four-Door Car
+10422,Basic,Employed,64311,Married,62,0,2,Offer4,Four-Door Car
+10426,Basic,Unemployed,0,Married,70,0,1,Offer1,Four-Door Car
+10428,Basic,Employed,25998,Married,71,0,2,Offer2,Four-Door Car
+10434,Extended,Unemployed,0,Single,82,0,1,Offer1,Four-Door Car
+10441,Basic,Employed,90918,Single,64,0,2,Offer3,Four-Door Car
+10449,Extended,Employed,40778,Single,86,0,1,Offer2,Four-Door Car
+10462,Basic,Unemployed,0,Single,74,0,2,Offer1,Two-Door Car
+10463,Basic,Employed,28108,Married,114,0,3,Offer4,Sports Car
+10466,Premium,Unemployed,0,Married,167,0,5,Offer2,SUV
+10469,Basic,Employed,80927,Single,62,0,1,Offer2,Two-Door Car
+10472,Basic,Employed,86073,Married,70,0,3,Offer3,Two-Door Car
+10485,Basic,Employed,38223,Married,112,2,1,Offer3,SUV
+10493,Extended,Medical Leave,13432,Married,92,0,8,Offer1,Four-Door Car
+10496,Basic,Medical Leave,14072,Divorced,71,0,2,Offer1,Four-Door Car
+10504,Basic,Employed,64255,Single,70,0,8,Offer2,Four-Door Car
+10511,Extended,Employed,88842,Married,90,0,1,Offer4,Two-Door Car
+10520,Basic,Employed,39377,Married,64,0,1,Offer2,Two-Door Car
+10524,Premium,Disabled,11885,Divorced,101,0,2,Offer1,Four-Door Car
+10535,Basic,Employed,40420,Married,104,0,7,Offer1,SUV
+10540,Basic,Employed,75474,Married,62,0,1,Offer2,Two-Door Car
+10541,Basic,Unemployed,0,Single,61,0,2,Offer2,Two-Door Car
+10543,Basic,Employed,37741,Single,74,0,1,Offer2,Two-Door Car
+10545,Extended,Employed,63189,Married,88,0,1,Offer1,Four-Door Car
+10550,Basic,Unemployed,0,Married,119,0,3,Offer2,Sports Car
+10556,Basic,Unemployed,0,Single,64,0,9,Offer1,Four-Door Car
+10568,Premium,Unemployed,0,Single,146,0,3,Offer1,SUV
+10577,Basic,Employed,37876,Single,69,0,1,Offer2,Four-Door Car
+10581,Extended,Unemployed,0,Married,88,0,1,Offer2,Two-Door Car
+10583,Extended,Employed,73268,Married,137,0,3,Offer3,SUV
+10589,Extended,Employed,74915,Married,122,0,2,Offer3,SUV
+10608,Extended,Employed,43543,Married,76,0,8,Offer1,Two-Door Car
+10610,Basic,Employed,74241,Married,61,0,1,Offer2,Two-Door Car
+10611,Extended,Employed,61385,Married,86,0,1,Offer2,Four-Door Car
+10614,Basic,Unemployed,0,Single,62,0,8,Offer1,Two-Door Car
+10623,Basic,Unemployed,0,Married,67,0,1,Offer1,Four-Door Car
+10630,Basic,Unemployed,0,Single,70,0,7,Offer2,Four-Door Car
+10636,Extended,Medical Leave,24053,Divorced,87,1,7,Offer2,Four-Door Car
+10642,Basic,Unemployed,0,Single,117,0,2,Offer3,SUV
+10645,Basic,Employed,49821,Married,61,4,3,Offer4,Four-Door Car
+10646,Basic,Medical Leave,12928,Single,64,0,1,Offer1,Four-Door Car
+10650,Basic,Unemployed,0,Single,71,0,1,Offer2,Four-Door Car
+10653,Extended,Employed,61783,Married,94,0,6,Offer2,Four-Door Car
+10656,Basic,Employed,46900,Married,66.79697547,0,1,Offer2,Four-Door Car
+10671,Basic,Employed,98475,Married,115,0,1,Offer2,SUV
+10676,Basic,Employed,42937,Married,71,0,1,Offer1,Two-Door Car
+10681,Basic,Employed,89834,Married,116,0,1,Offer1,SUV
+10692,Basic,Employed,67233,Married,63,0,3,Offer3,Two-Door Car
+10697,Basic,Employed,63860,Married,62,0,1,Offer2,Four-Door Car
+10702,Basic,Employed,87777,Single,68,0,7,Offer1,Two-Door Car
+10706,Basic,Employed,83761,Married,112,0,8,Offer1,SUV
+10710,Basic,Employed,30064,Married,65,0,1,Offer1,Two-Door Car
+10713,Extended,Medical Leave,12081,Divorced,82,0,2,Offer3,Two-Door Car
+10717,Extended,Employed,84814,Married,90,0,1,Offer4,Four-Door Car
+10723,Basic,Employed,46097,Married,61,4,3,Offer2,Four-Door Car
+10725,Basic,Employed,37455,Married,91.97827786,0,2,Offer4,SUV
+10736,Extended,Employed,61568,Married,93,0,3,Offer1,Four-Door Car
+10737,Extended,Employed,23970,Married,77,0,1,Offer2,Four-Door Car
+10738,Basic,Employed,48428,Married,72,1,2,Offer2,Four-Door Car
+10758,Extended,Employed,67117,Single,85,0,2,Offer4,Two-Door Car
+10767,Basic,Employed,71960,Single,67,0,9,Offer2,Two-Door Car
+10769,Basic,Employed,30039,Single,70,0,9,Offer3,Four-Door Car
+10784,Basic,Employed,89219,Single,73,4,2,Offer2,Four-Door Car
+10790,Basic,Employed,26129,Divorced,70,0,3,Offer1,Four-Door Car
+10799,Basic,Unemployed,0,Married,107,0,7,Offer1,SUV
+10802,Extended,Employed,39020,Married,87,0,5,Offer3,Four-Door Car
+10804,Extended,Medical Leave,27231,Married,88,0,2,Offer1,Four-Door Car
+10809,Basic,Unemployed,0,Single,108,0,9,Offer1,SUV
+10824,Basic,Employed,69461,Single,64,0,6,Offer3,Two-Door Car
+10828,Basic,Unemployed,0,Single,68,2,9,Offer1,Four-Door Car
+10830,Basic,Employed,83868,Married,189,0,7,Offer1,Luxury Car
+10837,Extended,Unemployed,0,Single,206,0,1,Offer2,Luxury SUV
+10838,Basic,Employed,69588,Married,114,0,6,Offer1,SUV
+10844,Basic,Unemployed,0,Single,101,0,1,Offer2,SUV
+10850,Basic,Employed,99845,Married,110,1,8,Offer2,SUV
+10858,Extended,Employed,66429,Married,136,0,1,Offer2,Sports Car
+10861,Basic,Unemployed,0,Married,101,4,1,Offer1,SUV
+10867,Basic,Unemployed,0,Married,65,1,2,Offer3,Four-Door Car
+10875,Basic,Employed,96399,Married,70,0,2,Offer2,Four-Door Car
+10878,Basic,Unemployed,0,Single,103,0,3,Offer3,Sports Car
+10879,Extended,Employed,40711,Married,114.9416531,0,2,Offer3,SUV
+10894,Basic,Unemployed,0,Married,66,0,2,Offer2,Four-Door Car
+10895,Extended,Unemployed,0,Married,128,0,6,Offer1,SUV
+10898,Basic,Unemployed,0,Single,118,0,3,Offer2,SUV
+10906,Basic,Unemployed,0,Married,119,0,4,Offer1,SUV
+10914,Basic,Employed,77738,Married,118,0,2,Offer2,SUV
+10916,Basic,Employed,70311,Married,66,0,2,Offer1,Two-Door Car
+10934,Extended,Unemployed,0,Single,98,0,1,Offer2,Two-Door Car
+10943,Premium,Employed,60880,Married,119,0,2,Offer1,Two-Door Car
+10951,Extended,Unemployed,0,Single,127,0,2,Offer1,SUV
+10953,Extended,Employed,30706,Married,84,0,1,Offer2,Four-Door Car
+10961,Basic,Medical Leave,29587,Married,69,0,1,Offer4,Two-Door Car
+10970,Basic,Employed,20309,Divorced,181,0,2,Offer1,Luxury Car
+10971,Basic,Employed,57293,Married,102,0,7,Offer1,Sports Car
+10975,Basic,Employed,69241,Married,61,0,1,Offer3,Four-Door Car
+10980,Basic,Employed,98796,Married,104,0,3,Offer4,SUV
+10982,Extended,Unemployed,0,Single,91,0,8,Offer3,Two-Door Car
+10993,Basic,Disabled,15776,Married,69,0,1,Offer2,Two-Door Car
+10995,Extended,Unemployed,0,Divorced,135,0,2,Offer1,SUV
+11019,Premium,Employed,60880,Married,119,0,2,Offer1,Two-Door Car
+11022,Extended,Employed,45609,Married,87,0,1,Offer4,Two-Door Car
+11024,Premium,Employed,41195,Married,160,0,1,Offer4,SUV
+11027,Premium,Unemployed,0,Married,119,0,1,Offer1,Four-Door Car
+11043,Extended,Employed,28989,Married,85,0,1,Offer2,Four-Door Car
+11053,Basic,Medical Leave,20848,Married,71,0,1,Offer4,Four-Door Car
+11056,Basic,Unemployed,0,Single,108,0,1,Offer1,Sports Car
+11068,Basic,Employed,62638,Married,100,0,1,Offer2,SUV
+11070,Extended,Employed,56875,Married,84,0,6,Offer3,Two-Door Car
+11078,Basic,Employed,95891,Married,102,0,1,Offer1,SUV
+11079,Basic,Employed,33235,Single,110,0,2,Offer1,SUV
+11088,Basic,Employed,29462,Single,107,1,1,Offer2,SUV
+11093,Basic,Unemployed,0,Single,109,1,1,Offer1,SUV
+11102,Basic,Employed,37937,Married,116,0,5,Offer2,SUV
+11105,Basic,Employed,62902,Married,69,0,2,Offer2,Two-Door Car
+11109,Extended,Employed,57245,Single,124,0,2,Offer2,Sports Car
+11120,Basic,Unemployed,0,Single,70,0,1,Offer1,Four-Door Car
+11150,Basic,Employed,70914,Married,68,0,3,Offer1,Four-Door Car
+11157,Basic,Unemployed,0,Married,73,0,7,Offer2,Two-Door Car
+11173,Basic,Unemployed,0,Single,186,0,8,Offer1,Luxury SUV
+11177,Basic,Unemployed,0,Single,63,0,7,Offer1,Two-Door Car
+11185,Extended,Employed,54603,Single,86,0,1,Offer1,Four-Door Car
+11187,Extended,Unemployed,0,Single,99,0,5,Offer1,Four-Door Car
+11191,Basic,Employed,72335,Single,69,0,1,Offer2,Four-Door Car
+11192,Basic,Unemployed,0,Married,73,0,5,Offer4,Four-Door Car
+11193,Basic,Employed,75644,Divorced,65,3,9,Offer2,Two-Door Car
+11203,Extended,Unemployed,0,Single,95,0,1,Offer1,Four-Door Car
+11204,Premium,Unemployed,0,Single,174,0,8,Offer2,SUV
+11208,Basic,Unemployed,0,Married,111,0,8,Offer1,SUV
+11223,Basic,Unemployed,0,Single,73,0,2,Offer2,Four-Door Car
+11226,Premium,Unemployed,0,Single,107,0,1,Offer1,Four-Door Car
+11228,Extended,Unemployed,0,Single,136,0,1,Offer1,SUV
+11255,Basic,Employed,46814,Married,113,0,3,Offer4,SUV
+11257,Premium,Disabled,17301,Married,105,0,5,Offer2,Four-Door Car
+11261,Basic,Unemployed,0,Single,73,1,2,Offer1,Four-Door Car
+11268,Basic,Disabled,27816,Married,118,5,3,Offer1,SUV
+11269,Premium,Employed,69379,Single,103,0,1,Offer1,Two-Door Car
+11276,Basic,Employed,76025,Married,67,0,1,Offer2,Four-Door Car
+11307,Basic,Employed,66467,Married,66,0,3,Offer4,Two-Door Car
+11320,Premium,Medical Leave,20920,Married,103,0,1,Offer1,Four-Door Car
+11344,Extended,Employed,93920,Married,84,0,2,Offer2,Four-Door Car
+11347,Basic,Unemployed,0,Single,70,3,3,Offer1,Four-Door Car
+11355,Extended,Employed,75728,Married,133,0,4,Offer1,SUV
+11364,Basic,Disabled,11811,Married,110,0,1,Offer2,Sports Car
+11373,Extended,Disabled,26628,Married,85,0,6,Offer1,Two-Door Car
+11394,Basic,Unemployed,0,Single,62,1,7,Offer1,Four-Door Car
+11402,Basic,Unemployed,4401.750746,Divorced,118,0,1,Offer1,SUV
+11408,Basic,Employed,28987,Married,102,0,1,Offer3,SUV
+11413,Extended,Employed,57517,Single,96,0,8,Offer2,Four-Door Car
+11428,Basic,Employed,37109,Married,63,0,2,Offer1,Two-Door Car
+11430,Basic,Employed,89451,Single,63,0,1,Offer2,Four-Door Car
+11445,Basic,Employed,73054,Married,106,1,2,Offer1,SUV
+11453,Basic,Employed,23352,Married,112,0,1,Offer2,SUV
+11456,Basic,Employed,39337,Single,74,1,9,Offer1,Four-Door Car
+11461,Extended,Employed,49331,Married,138,0,2,Offer1,SUV
+11463,Basic,Unemployed,0,Single,106,0,6,Offer1,SUV
+11465,Basic,Disabled,11656,Married,70,0,2,Offer3,Two-Door Car
+11466,Basic,Employed,60920,Single,64,0,2,Offer2,Two-Door Car
+11467,Basic,Unemployed,0,Married,67,0,4,Offer1,Two-Door Car
+11476,Extended,Employed,33963,Divorced,99,0,4,Offer4,Four-Door Car
+11489,Extended,Employed,65620,Divorced,213,0,4,Offer3,Luxury Car
+11502,Basic,Unemployed,0,Single,74.33696833,1,3,Offer3,Four-Door Car
+11513,Basic,Unemployed,0,Married,68,0,1,Offer2,Four-Door Car
+11523,Basic,Employed,72021,Married,62,0,1,Offer2,Two-Door Car
+11524,Basic,Employed,41228,Married,70,3,7,Offer2,Two-Door Car
+11532,Extended,Employed,39834,Married,83,0,3,Offer4,Four-Door Car
+11533,Basic,Employed,23823,Married,115,0,6,Offer2,Sports Car
+11538,Extended,Unemployed,0,Single,81,0,1,Offer1,Four-Door Car
+11542,Basic,Unemployed,0,Single,65,0,1,Offer2,Four-Door Car
+11543,Basic,Unemployed,0,Single,68,0,3,Offer1,Two-Door Car
+11545,Basic,Employed,46900,Married,66,0,1,Offer2,Four-Door Car
+11546,Premium,Employed,97024,Married,177,0,1,Offer2,SUV
+11553,Basic,Employed,61896,Married,104,0,1,Offer4,SUV
+11557,Basic,Employed,39317,Single,64,0,1,Offer2,Four-Door Car
+11559,Basic,Employed,30205,Single,195,0,4,Offer1,Luxury SUV
+11570,Extended,Employed,36918,Divorced,76,3,3,Offer1,Two-Door Car
+11572,Extended,Employed,59367,Married,84,0,1,Offer2,Four-Door Car
